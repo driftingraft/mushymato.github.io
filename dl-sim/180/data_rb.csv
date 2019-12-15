@@ -116,8 +116,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5611,_c_Joe,3*,flame,bow,3939,[Forest_Bonds+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s & 0 resist & fullhp=burn & c4+fs>,,attack:1276,force_strike:0,skill_1:2149,skill_2:965,skill_3:1219,team_buff:0,s2_burn:0
 7680,Louise,5*,wind,bow,3862,[Forest_Bonds+Dear_Diary][Vayu],<RO proc at 0s 60s 120s & 0 resist>,no fs,attack:1355,force_strike:0,skill_1:2505,skill_2:1285,skill_3:1307,team_buff:0,s1_poison:693,s2_boost:533
 5369,_c_Louise,5*,wind,bow,3862,[Forest_Bonds+Dear_Diary][Vayu],!<RO proc at 0s 60s 120s & 0 resist>,no fs,attack:1131,force_strike:0,skill_1:2088,skill_2:1059,skill_3:1089,team_buff:0,s1_poison:0,s2_boost:0
-6173,Luca,4*,light,bow,4916,[Forest_Bonds+Dear_Diary][Cupid],<hp100 & RO proc at 0s 60s 120s & 0 resist & c4+fs>,,attack:1365,force_strike:805,skill_1:1954,skill_2:995,skill_3:552,team_buff:0,s1_paralysis:499
-4173,_c_Luca,4*,light,bow,4916,[Forest_Bonds+Dear_Diary][Cupid],!<hp100 & RO proc at 0s 60s 120s & 0 resist & c4+fs>,,attack:1492,force_strike:0,skill_1:1505,skill_2:758,skill_3:416,team_buff:0,s1_paralysis:0
+6764,Luca,4*,light,bow,4621,[Spirit_of_the_Season+Dear_Diary][C_Phoenix],<hp100 & RO proc at 0s 60s 120s & 0 resist & c4+fs>,,attack:1816,force_strike:1101,skill_1:1860,skill_2:950,skill_3:528,team_buff:0,s1_paralysis:506
+3203,_c_Luca,4*,light,bow,4621,[Spirit_of_the_Season+Dear_Diary][C_Phoenix],!<hp100 & RO proc at 0s 60s 120s & 0 resist & c4+fs>,,attack:1403,force_strike:0,skill_1:1010,skill_2:509,skill_3:279,team_buff:0,s1_paralysis:0
 6339,Malora,3*,light,bow,4916,[Forest_Bonds+Dear_Diary][Cupid],<RO proc at 0s 60s 120s & spawn c1+fs>,,attack:539,force_strike:1539,skill_1:2530,skill_2:813,skill_3:789,team_buff:127
 4552,_c_Malora,3*,light,bow,4916,[Forest_Bonds+Dear_Diary][Cupid],!<RO proc at 0s 60s 120s & spawn c1+fs>,,attack:1616,force_strike:0,skill_1:1710,skill_2:669,skill_3:428,team_buff:126
 6273,Nefaria,5*,shadow,bow,3869,[Forest_Bonds+Dear_Diary][Shinobi],<RO proc at 0s 60s 120s & 80 resist & fullhp=blind & c4+fs>,,attack:1049,force_strike:621,skill_1:2815,skill_2:0,skill_3:1313,team_buff:0,s1_boost:259,s2_fs:214
@@ -239,7 +239,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 2620,_c_G_Elisanne,5*,water,axe,3394,[Beach_Battle+From_Whence_He_Came][H_Maritimus],!<buff all team & energy>,,attack:2331,force_strike:289,skill_1:0,skill_2:0,skill_3:0,team_buff:0
 10054,Durant,4*,shadow,blade,5612,[Beautiful_Nothingness+From_Whence_He_Came][Marishiten],<hp100 & hp70>,,attack:7423,force_strike:0,skill_1:0,skill_2:0,skill_3:2631,team_buff:0
 8192,_c_Durant,4*,shadow,blade,5612,[Beautiful_Nothingness+From_Whence_He_Came][Marishiten],!<hp100 & hp70>,,attack:6051,force_strike:0,skill_1:0,skill_2:0,skill_3:2141,team_buff:0
-9527,D_Malora,5*,light,axe,5644,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid], ,,attack:3024,force_strike:0,skill_1:2311,skill_2:1612,skill_3:0,team_buff:1140,s2_boost:1438
+9527,D_Malora,5*,light,axe,5644,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],<buff all team>,,attack:3024,force_strike:0,skill_1:2311,skill_2:1612,skill_3:0,team_buff:1140,s2_boost:1438
+5942,_c_D_Malora,5*,light,axe,5644,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],!<buff all team>,,attack:2597,force_strike:0,skill_1:1975,skill_2:1370,skill_3:0,team_buff:0
 11462,Victor,5*,wind,blade,4129,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(9037~12888),<hp70>,,attack:1862,force_strike:0,skill_1:3381,skill_2:1202,skill_3:1001,team_buff:0,bleed:4015
 9085,_c_Victor,5*,wind,blade,4129,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(7248~10267),!<hp70>,,attack:1483,force_strike:0,skill_1:2693,skill_2:957,skill_3:798,team_buff:0,bleed:3152
 9093,S_Cleo,5*,light,bow,4679,[Forest_Bonds+Dear_Diary][C_Phoenix];dpsrange:(8862~9521),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs,attack:2292,force_strike:0,skill_1:3324,skill_2:0,skill_3:1351,team_buff:217,s1_paralysis:867,s1_boost:1040
