@@ -222,8 +222,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 2764,_c_Delphi,5*,shadow,dagger,5123,[Twinfold_Bonds+Stellar_Show][Marishiten],!<0 resist & s1 defdown for 10s>,,attack:729,force_strike:800,skill_1:421,skill_2:258,skill_3:480,team_buff:0,s1fs:74,fs_poison:0,s2_poison:0
 7384,Audric,4*,shadow,sword,3950,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],<hp70>,,attack:1330,force_strike:612,skill_1:3284,skill_2:1189,skill_3:967,team_buff:0
 6816,_c_Audric,4*,shadow,sword,3950,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<hp70>,,attack:1228,force_strike:564,skill_1:3031,skill_2:1098,skill_3:893,team_buff:0
-10222,Cassandra,5*,shadow,wand,4208,[Candy_Couriers+Flash_of_Genius][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,no counter damage,attack:2002,force_strike:0,skill_1:3764,skill_2:2008,skill_3:1376,team_buff:0,s1_poison:968,s2_crisis:101
-8157,_c_Cassandra,5*,shadow,wand,4208,[Candy_Couriers+Flash_of_Genius][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,no counter damage,attack:1741,force_strike:0,skill_1:3273,skill_2:1746,skill_3:1197,team_buff:0,s1_poison:0,s2_crisis:198
+10814,Cassandra,5*,shadow,wand,4208,[Candy_Couriers+Flash_of_Genius][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,no counter damage,attack:1962,force_strike:0,skill_1:3763,skill_2:2007,skill_3:2011,team_buff:0,s1_poison:967,s2_crisis:101
+8672,_c_Cassandra,5*,shadow,wand,4208,[Candy_Couriers+Flash_of_Genius][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,no counter damage,attack:1706,force_strike:0,skill_1:3272,skill_2:1745,skill_3:1749,team_buff:0,s1_poison:0,s2_crisis:198
 7834,H_Mym,5*,flame,axe,5489,[Kung_Fu_Masters+Jewels_of_the_Sun][Cerberus],<hp70 & s1 defdown for 10s & buff all team>,,attack:3842,force_strike:614,skill_1:1198,skill_2:0,skill_3:792,team_buff:1386
 5653,_c_H_Mym,5*,flame,axe,5489,[Kung_Fu_Masters+Jewels_of_the_Sun][Cerberus],!<hp70 & s1 defdown for 10s & buff all team>,,attack:3236,force_strike:543,skill_1:1128,skill_2:0,skill_3:745,team_buff:0
 9228,H_Odetta,4*,water,sword,4914,[Mega_Friends+First_Rate_Hospitality][DJ],<buff all team & hp70>,c2+fs,attack:1903,force_strike:1974,skill_1:2715,skill_2:0,skill_3:1281,team_buff:1352
@@ -244,8 +244,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5034,_c_D_Xainfried,4*,wind,wand,4941,[Heralds_of_Hinomoto+From_Whence_He_Came][Longlong],!<buff all team>,,attack:2619,force_strike:350,skill_1:0,skill_2:984,skill_3:1080,team_buff:0
 5258,Laxi,4*,flame,blade,4231,[Heralds_of_Hinomoto+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s>,a1 proc at 0s,attack:1853,force_strike:0,skill_1:1109,skill_2:0,skill_3:1387,team_buff:0,s1_boost:909
 4830,_c_Laxi,4*,flame,blade,4231,[Heralds_of_Hinomoto+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s>,a1 proc at 0s,attack:1700,force_strike:0,skill_1:1018,skill_2:0,skill_3:1276,team_buff:0,s1_boost:836
-11884,Botan,4*,shadow,lance,3965,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi],<buff all team & hp70>,,attack:1446,force_strike:250,skill_1:3256,skill_2:0,skill_3:1682,team_buff:726,bleed:4522
-10278,_c_Botan,4*,shadow,lance,3965,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi],!<buff all team & hp70>,,attack:1271,force_strike:219,skill_1:2862,skill_2:0,skill_3:1478,team_buff:472,bleed:3973
+13541,Botan,4*,shadow,lance,3950,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<buff all team & hp70>,,attack:1947,force_strike:0,skill_1:3196,skill_2:0,skill_3:1964,team_buff:1318,bleed:5114
+11631,_c_Botan,4*,shadow,lance,3950,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<buff all team & hp70>,,attack:1715,force_strike:0,skill_1:2817,skill_2:0,skill_3:1732,team_buff:857,bleed:4508
 10836,Victor,5*,wind,blade,4129,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(7953~11950),<hp70>,,attack:2036,force_strike:0,skill_1:3805,skill_2:1277,skill_3:638,team_buff:0,bleed:3077
 8653,_c_Victor,5*,wind,blade,4129,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(6356~9550),!<hp70>,,attack:1627,force_strike:0,skill_1:3041,skill_2:1021,skill_3:510,team_buff:0,bleed:2452
 9457,S_Cleo,5*,light,bow,4679,[Forest_Bonds+Dear_Diary][C_Phoenix];dpsrange:(8598~8598),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs,attack:2600,force_strike:0,skill_1:3482,skill_2:0,skill_3:1339,team_buff:197,s1_paralysis:1008,s1_boost:829
