@@ -1,8 +1,8 @@
 dps,name,star,element,weapon,str,amulets,condition,comment,
 5713,Aeleen,4*,wind,lance,4446,[Resounding_Rendition+Beautiful_Nothingness][Vayu],<hp70>,,attack:1571,force_strike:241,skill_1:2968,skill_2:0,skill_3:931,team_buff:0
 5022,_c_Aeleen,4*,wind,lance,4446,[Resounding_Rendition+Beautiful_Nothingness][Vayu],!<hp70>,,attack:1381,force_strike:212,skill_1:2609,skill_2:0,skill_3:818,team_buff:0
-8657,Alain,3*,flame,lance,4756,[Resounding_Rendition+Elegant_Escort][Sakuya],<hp70 & 0 resist>,,attack:2077,force_strike:249,skill_1:2804,skill_2:1279,skill_3:1174,team_buff:0,s1_burn:1071
-5760,_c_Alain,3*,flame,lance,4756,[Resounding_Rendition+Elegant_Escort][Sakuya],!<hp70 & 0 resist>,,attack:1589,force_strike:192,skill_1:2146,skill_2:966,skill_3:865,team_buff:0,s1_burn:0
+9132,Alain,3*,flame,lance,4756,[Resounding_Rendition+Elegant_Escort][Sakuya],<hp70 & 0 resist>,,attack:2077,force_strike:249,skill_1:3025,skill_2:1533,skill_3:1174,team_buff:0,s1_burn:1071
+6121,_c_Alain,3*,flame,lance,4756,[Resounding_Rendition+Elegant_Escort][Sakuya],!<hp70 & 0 resist>,,attack:1589,force_strike:192,skill_1:2315,skill_2:1157,skill_3:865,team_buff:0,s1_burn:0
 10905,Albert,5*,light,sword,5969,[The_Shining_Overlord+Sisters_Day_Out][Cupid],<big hitbox & shapeshift at 30s & 0 resist & 4s1 in on s2>,suitable skill prep; don't use s3 in s2,attack:1375,force_strike:1287,skill_1:2764,skill_2:0,skill_3:578,team_buff:0,s1_s2boost:2076,s1_hit2:149,s1_hit3:149,s1_hit4:149,s1_hit5:149,s1_hit6:149,fs_alt:493,fs_paralysis:1583
 6881,_c_Albert,5*,light,sword,5969,[The_Shining_Overlord+Sisters_Day_Out][Cupid],!<big hitbox & shapeshift at 30s & 0 resist & 4s1 in on s2>,suitable skill prep; don't use s3 in s2,attack:1670,force_strike:824,skill_1:2276,skill_2:0,skill_3:885,team_buff:0,s1_s2boost:1008,s1_hit2:72,s1_hit3:72,s1_hit4:72
 7816,Alex,4*,shadow,dagger,4328,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hp100 & hit15 & 0 resist>,not consider bk boost of her s2,attack:1717,force_strike:104,skill_1:3040,skill_2:793,skill_3:1135,team_buff:366,s1_poison:659
@@ -93,8 +93,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 4499,_c_Irfan,3*,light,dagger,6431,[Twinfold_Bonds+Levins_Champion][Daikokuten],!<hit15 & hp70>,,attack:1690,force_strike:178,skill_1:1439,skill_2:611,skill_3:580,team_buff:0
 5054,Jakob,3*,water,lance,5446,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne],<hp70>,no bog,attack:2119,force_strike:285,skill_1:1966,skill_2:0,skill_3:682,team_buff:0
 4527,_c_Jakob,3*,water,lance,5446,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne],!<hp70>,no bog,attack:1898,force_strike:255,skill_1:1760,skill_2:0,skill_3:611,team_buff:0
-8577,Joe,3*,flame,bow,4724,[Forest_Bonds+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s & 0 resist & hp100 & c4+fs>,,attack:1969,force_strike:441,skill_1:3219,skill_2:1170,skill_3:554,team_buff:0,s1_burn:892,s2_burn:328
-7017,_c_Joe,3*,flame,bow,4724,[Forest_Bonds+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s & 0 resist & hp100 & c4+fs>,,attack:2014,force_strike:0,skill_1:2928,skill_2:1065,skill_3:1009,team_buff:0,s1_burn:0,s2_burn:0
+8956,Joe,3*,flame,bow,4724,[Forest_Bonds+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s & 0 resist & hp100 & c4+fs>,,attack:1969,force_strike:441,skill_1:3538,skill_2:1230,skill_3:554,team_buff:0,s1_burn:892,s2_burn:328
+7362,_c_Joe,3*,flame,bow,4724,[Forest_Bonds+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s & 0 resist & hp100 & c4+fs>,,attack:2014,force_strike:0,skill_1:3219,skill_2:1119,skill_3:1009,team_buff:0,s1_burn:0,s2_burn:0
 7052,Johanna,3*,wind,axe,4397,[Kung_Fu_Masters+Crystalian_Envoy][Vayu],<hp70>,,attack:2089,force_strike:278,skill_1:2629,skill_2:1419,skill_3:636,team_buff:0
 6362,_c_Johanna,3*,wind,axe,4397,[Kung_Fu_Masters+Crystalian_Envoy][Vayu],!<hp70>,,attack:1884,force_strike:251,skill_1:2372,skill_2:1280,skill_3:574,team_buff:0
 6216,Julietta,5*,light,axe,6145,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid], ,no fs & no s2,attack:2937,force_strike:0,skill_1:2778,skill_2:0,skill_3:500,team_buff:0
@@ -180,8 +180,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6586,_c_Rena,5*,flame,blade,4753,[Resounding_Rendition+Elegant_Escort][Sakuya],!<hp70 & 0 resist>,,attack:1795,force_strike:238,skill_1:3848,skill_2:0,skill_3:704,team_buff:0,s1_burn:0,s1_boost:0
 5806,Renee,4*,water,dagger,4410,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],<hit15>,no bog,attack:1525,force_strike:173,skill_1:2310,skill_2:755,skill_3:1040,team_buff:0
 4707,_c_Renee,4*,water,dagger,4410,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],!<hit15>,no bog,attack:1236,force_strike:140,skill_1:1875,skill_2:612,skill_3:843,team_buff:0
-9555,Renelle,3*,flame,dagger,4643,[Twinfold_Bonds+Elegant_Escort][Sakuya],<hit15 & 0 resist>,,attack:2193,force_strike:397,skill_1:2965,skill_2:1277,skill_3:1410,team_buff:103,s1_burn:893,s2_burn:313
-5477,_c_Renelle,3*,flame,dagger,4643,[Twinfold_Bonds+Elegant_Escort][Sakuya],!<hit15 & 0 resist>,,attack:1436,force_strike:265,skill_1:1957,skill_2:827,skill_3:887,team_buff:103,s1_burn:0,s2_burn:0
+9894,Renelle,3*,flame,dagger,4643,[Twinfold_Bonds+Elegant_Escort][Sakuya],<hit15 & 0 resist>,,attack:2193,force_strike:397,skill_1:3109,skill_2:1472,skill_3:1410,team_buff:103,s1_burn:893,s2_burn:313
+5699,_c_Renelle,3*,flame,dagger,4643,[Twinfold_Bonds+Elegant_Escort][Sakuya],!<hit15 & 0 resist>,,attack:1436,force_strike:265,skill_1:2052,skill_2:953,skill_3:887,team_buff:103,s1_burn:0,s2_burn:0
 6492,Rex,3*,water,axe,4541,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],<hp70>,,attack:2121,force_strike:187,skill_1:2650,skill_2:954,skill_3:578,team_buff:0
 5992,_c_Rex,3*,water,axe,4541,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],!<hp70>,,attack:1958,force_strike:172,skill_1:2446,skill_2:881,skill_3:533,team_buff:0
 7568,Rodrigo,3*,shadow,sword,4418,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],<hp70 & shapeshift at 30s>,,attack:1560,force_strike:660,skill_1:2618,skill_2:1352,skill_3:1376,team_buff:0
@@ -228,8 +228,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5839,_c_Xainfried,5*,water,lance,4601,[Resounding_Rendition+Beautiful_Nothingness][Siren],!<hp70>,use s1 only to cancel c5 or fs,attack:1297,force_strike:171,skill_1:2749,skill_2:0,skill_3:773,team_buff:847
 7773,Xander,5*,water,sword,4600,[The_Shining_Overlord+Jewels_of_the_Sun][Siren],<shapeshift at 30s & hp70>,c2+fs,attack:1109,force_strike:1234,skill_1:3056,skill_2:1581,skill_3:790,team_buff:0
 6980,_c_Xander,5*,water,sword,4600,[The_Shining_Overlord+Jewels_of_the_Sun][Siren],!<shapeshift at 30s & hp70>,c2+fs,attack:995,force_strike:1107,skill_1:2750,skill_2:1417,skill_3:708,team_buff:0
-12712,Xania,3*,flame,wand,5859,[Candy_Couriers+Elegant_Escort][Apollo],<0 resist>,,attack:3661,force_strike:0,skill_1:4054,skill_2:1898,skill_3:1773,team_buff:0,s1_burn:885,s2_burn:438
-8093,_c_Xania,3*,flame,wand,5859,[Candy_Couriers+Elegant_Escort][Apollo],!<0 resist>,,attack:2628,force_strike:0,skill_1:2948,skill_2:1325,skill_3:1190,team_buff:0,s1_burn:0,s2_burn:0
+12924,Xania,3*,flame,wand,5859,[Candy_Couriers+Elegant_Escort][Apollo],<0 resist>,,attack:3661,force_strike:0,skill_1:4054,skill_2:2111,skill_3:1773,team_buff:0,s1_burn:885,s2_burn:438
+8241,_c_Xania,3*,flame,wand,5859,[Candy_Couriers+Elegant_Escort][Apollo],!<0 resist>,,attack:2628,force_strike:0,skill_1:2948,skill_2:1474,skill_3:1190,team_buff:0,s1_burn:0,s2_burn:0
 9238,Xiaolei,3*,light,wand,6719,[Candy_Couriers+Flash_of_Genius][Daikokuten],<hit15>,,attack:3223,force_strike:0,skill_1:3647,skill_2:0,skill_3:1559,team_buff:807
 7341,_c_Xiaolei,3*,light,wand,6719,[Candy_Couriers+Flash_of_Genius][Daikokuten],!<hit15>,,attack:2498,force_strike:0,skill_1:2826,skill_2:0,skill_3:1208,team_buff:807
 7692,Xuanzang,4*,flame,lance,4620,[Resounding_Rendition+Beautiful_Nothingness][Sakuya],<hp70>,,attack:1891,force_strike:197,skill_1:3081,skill_2:0,skill_3:1100,team_buff:1011,s1_boost:409
