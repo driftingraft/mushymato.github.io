@@ -25,16 +25,16 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6305,_c_Berserker,4*,shadow,sword,4348,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<last offense & shapeshift at 60s & hp70>,,attack:1093,force_strike:804,skill_1:2952,skill_2:0,skill_3:1454,team_buff:0
 18460,Botan,4*,shadow,lance,4420,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<buff all team & hp70>,,attack:2199,force_strike:0,skill_1:3574,skill_2:0,skill_3:2196,team_buff:3513,bleed:6976
 15461,_c_Botan,4*,shadow,lance,4420,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<buff all team & hp70>,,attack:1937,force_strike:0,skill_1:3150,skill_2:0,skill_3:1936,team_buff:2286,bleed:6150
-14450,Cassandra,5*,shadow,wand,4672,[Candy_Couriers+The_Plaguebringer][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo; 95% poison uptime,attack:2776,force_strike:0,skill_1:5649,skill_2:2334,skill_3:2313,team_buff:0,s1_poison:1250,s2_crisis:124
-8895,_c_Cassandra,5*,shadow,wand,4672,[Candy_Couriers+The_Plaguebringer][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo,attack:1832,force_strike:0,skill_1:3784,skill_2:1545,skill_3:1548,team_buff:0,s1_poison:0,s2_crisis:185
+14946,Cassandra,5*,shadow,wand,4672,[Candy_Couriers+The_Plaguebringer][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo; 95% poison uptime,attack:2777,force_strike:0,skill_1:5590,skill_2:2832,skill_3:2315,team_buff:0,s1_poison:1278,s2_crisis:151
+9245,_c_Cassandra,5*,shadow,wand,4672,[Candy_Couriers+The_Plaguebringer][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo,attack:1829,force_strike:0,skill_1:3787,skill_2:1855,skill_3:1549,team_buff:0,s1_poison:0,s2_crisis:223
 8305,Celliera,4*,water,blade,4572,[Resounding_Rendition+Jewels_of_the_Sun][Siren],<hp70>,,attack:2355,force_strike:0,skill_1:4199,skill_2:0,skill_3:1750,team_buff:0
 6867,_c_Celliera,4*,water,blade,4572,[Resounding_Rendition+Jewels_of_the_Sun][Siren],!<hp70>,,attack:1947,force_strike:0,skill_1:3472,skill_2:0,skill_3:1447,team_buff:0
 13936,Chelsea,5*,flame,bow,4577,[Forest_Bonds+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s>,,attack:3445,force_strike:0,skill_1:7323,skill_2:0,skill_3:3168,team_buff:0
 12619,_c_Chelsea,5*,flame,bow,4577,[Forest_Bonds+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s>,,attack:3131,force_strike:0,skill_1:6643,skill_2:0,skill_3:2844,team_buff:0
 5604,Cibella,3*,water,lance,5446,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne],<hp70>,,attack:2552,force_strike:315,skill_1:0,skill_2:1436,skill_3:1300,team_buff:0
 5019,_c_Cibella,3*,water,lance,5446,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne],!<hp70>,,attack:2286,force_strike:282,skill_1:0,skill_2:1286,skill_3:1164,team_buff:0
-10603,Curran,5*,shadow,axe,4713,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],<last offense & hp70>,no fs,attack:2900,force_strike:0,skill_1:4235,skill_2:1666,skill_3:1389,team_buff:413
-9246,_c_Curran,5*,shadow,axe,4713,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],!<last offense & hp70>,no fs,attack:2436,force_strike:0,skill_1:3639,skill_2:1503,skill_3:1253,team_buff:413
+13948,Curran,5*,shadow,axe,4910,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],<last offense & hp70>,no fs,attack:3445,force_strike:0,skill_1:6189,skill_2:1992,skill_3:1494,team_buff:826
+12098,_c_Curran,5*,shadow,axe,4910,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],!<last offense & hp70>,no fs,attack:2857,force_strike:0,skill_1:5268,skill_2:1797,skill_3:1348,team_buff:826
 9117,D_Cleo,5*,water,dagger,4441,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],<energy & always connect hits & hp70 & hit15>,,attack:1848,force_strike:333,skill_1:2377,skill_2:1590,skill_3:1558,team_buff:1055,team_energy:135,s1_energized:129,s3_energized:88
 6754,_c_D_Cleo,5*,water,dagger,4441,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],!<energy & always connect hits & hp70 & hit15>,,attack:1367,force_strike:246,skill_1:1756,skill_2:1178,skill_3:1151,team_buff:1055
 13523,D_Malora,5*,light,axe,6272,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],<buff all team>,,attack:4194,force_strike:0,skill_1:2607,skill_2:1826,skill_3:0,team_buff:3265,s2_boost:1630
@@ -111,8 +111,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5900,_c_Kuhai,4*,wind,sword,5748,[Stellar_Show+Resounding_Rendition][Zephyr],!<huge hitbox eneny & hp70>,c2+fs during s2,attack:1086,force_strike:301,skill_1:2109,skill_2:0,skill_3:705,team_buff:0,fs_alt:0,fs_alt_hit1:848,fs_alt_hit2:848
 9420,Laranoa,5*,water,bow,5292,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],<buff all team & never lose comboes & c4+fs & RO proc at 0s 60s 120s>,doesn't count spbuff for teammates,attack:2181,force_strike:699,skill_1:4779,skill_2:0,skill_3:1169,team_buff:591
 6754,_c_Laranoa,5*,water,bow,5292,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],!<buff all team & never lose comboes & c4+fs & RO proc at 0s 60s 120s>,doesn't count spbuff for teammates,attack:1998,force_strike:0,skill_1:3661,skill_2:0,skill_3:1094,team_buff:0
-8215,Lathna,5*,shadow,lance,4392,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<hp70>,no poison,attack:1531,force_strike:0,skill_1:3938,skill_2:2149,skill_3:596,team_buff:0
-7222,_c_Lathna,5*,shadow,lance,4392,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<hp70>,no poison,attack:1346,force_strike:0,skill_1:3461,skill_2:1889,skill_3:524,team_buff:0
+11467,Lathna,5*,shadow,lance,4586,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<hp70>,no poison,attack:1758,force_strike:0,skill_1:6168,skill_2:2917,skill_3:623,team_buff:0
+10081,_c_Lathna,5*,shadow,lance,4586,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<hp70>,no poison,attack:1546,force_strike:0,skill_1:5422,skill_2:2564,skill_3:547,team_buff:0
 7117,Laxi,4*,flame,blade,4814,[Heralds_of_Hinomoto+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s>,a1 proc at 0s,attack:2330,force_strike:0,skill_1:1623,skill_2:0,skill_3:1656,team_buff:0,s1_boost:1508
 6264,_c_Laxi,4*,flame,blade,4814,[Heralds_of_Hinomoto+Dear_Diary][Sakuya],!<RO proc at 0s 60s 120s>,a1 proc at 0s,attack:2054,force_strike:0,skill_1:1424,skill_2:0,skill_3:1465,team_buff:0,s1_boost:1320
 9877,Lea,5*,flame,sword,5825,[The_Shining_Overlord+Elegant_Escort][Apollo],<shapeshift at 60s & 0 resist>,c2+fs; 88% burn uptime,attack:1852,force_strike:2061,skill_1:3354,skill_2:0,skill_3:1498,team_buff:0,s1_burn:1110
@@ -263,8 +263,7 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 13203,_c_Ieyasu,5*,shadow,blade,4949,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi],!<hp70>,no poison,attack:1883,force_strike:0,skill_1:4652,skill_2:0,skill_3:1084,team_buff:0,bleed:5583
 9411,Sinoa,4*,flame,wand,4459,[Candy_Couriers+Flash_of_Genius][Sakuya];dpsrange:(8556~8556),<hp100 & hit15>,5c+fs,attack:2449,force_strike:344,skill_1:0,skill_2:2682,skill_3:1437,team_buff:2497
 7920,_c_Sinoa,4*,flame,wand,4459,[Candy_Couriers+Flash_of_Genius][Sakuya];dpsrange:(7200~7200),!<hp100 & hit15>,5c+fs,attack:1921,force_strike:269,skill_1:0,skill_2:2104,skill_3:1127,team_buff:2497
-7055,Patia,4*,shadow,lance,4276,[Valiant_Crown+First_Rate_Hospitality][Shinobi];dpsrange:(5777~7615),<hp70>,,attack:1774,force_strike:305,skill_1:0,skill_2:1869,skill_3:1550,team_buff:0,bleed:1554
-6628,_c_Patia,4*,shadow,lance,4276,[Valiant_Crown+First_Rate_Hospitality][Shinobi];dpsrange:(5441~7140),!<hp70>,,attack:1663,force_strike:286,skill_1:0,skill_2:1752,skill_3:1453,team_buff:0,bleed:1470
+15411,Patia,4*,shadow,lance,4440,[Valiant_Crown+Halidom_Grooms][Shinobi], ,,attack:2474,force_strike:295,skill_1:0,skill_2:2363,skill_3:1536,team_buff:5002,bleed:3738
 13168,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(9552~14796),<hp70>,,attack:2230,force_strike:0,skill_1:3869,skill_2:1417,skill_3:1063,team_buff:0,bleed:4589
 10451,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(7461~11824),!<hp70>,,attack:1782,force_strike:0,skill_1:3092,skill_2:1132,skill_3:849,team_buff:0,bleed:3595
 12570,S_Cleo,5*,light,bow,5276,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(12347~12630),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 87% paralysis uptime,attack:3050,force_strike:0,skill_1:4366,skill_2:0,skill_3:2005,team_buff:639,s1_paralysis:1213,s1_boost:1294
