@@ -264,6 +264,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 9668,Sinoa,4*,flame,wand,4459,[Candy_Couriers+Flash_of_Genius][Sakuya];dpsrange:(8789~8789),<hp100 & hit15>,5c+fs,attack:2373,force_strike:194,skill_1:0,skill_2:2562,skill_3:1813,team_buff:2725
 8171,_c_Sinoa,4*,flame,wand,4459,[Candy_Couriers+Flash_of_Genius][Sakuya];dpsrange:(7428~7428),!<hp100 & hit15>,5c+fs,attack:1861,force_strike:152,skill_1:0,skill_2:2009,skill_3:1422,team_buff:2725
 16044,Patia,4*,shadow,lance,4440,[Valiant_Crown+Halidom_Grooms][Shinobi], ,,attack:2409,force_strike:216,skill_1:0,skill_2:2249,skill_3:1781,team_buff:5454,bleed:3933
+10665,Heinwald,5*,shadow,staff,4319,[Resounding_Rendition+Flash_of_Genius][Shinobi],<buff all teammates & hp70 & hit15>,,attack:2403,force_strike:0,skill_1:4706,skill_2:0,skill_3:1948,team_buff:1607
+6526,_c_Heinwald,5*,shadow,staff,4319,[Resounding_Rendition+Flash_of_Genius][Shinobi],!<buff all teammates & hp70 & hit15>,,attack:1951,force_strike:0,skill_1:3234,skill_2:0,skill_3:1339,team_buff:0
 12292,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(9746~13915),<hp70>,,attack:2097,force_strike:0,skill_1:3638,skill_2:1333,skill_3:999,team_buff:0,bleed:4223
 9806,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(7481~11085),!<hp70>,,attack:1670,force_strike:0,skill_1:2898,skill_2:1061,skill_3:796,team_buff:0,bleed:3378
 11837,S_Cleo,5*,light,bow,5276,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(11617~11885),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 87% paralysis uptime,attack:2871,force_strike:0,skill_1:4109,skill_2:0,skill_3:1892,team_buff:597,s1_paralysis:1142,s1_boost:1223
