@@ -37,7 +37,7 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 10101,_c_Curran,5*,shadow,axe,4092,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],!<last offense & hp70>,no fs,attack:2595,force_strike:0,skill_1:4181,skill_2:1664,skill_3:951,team_buff:709
 7881,D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],<energy & always connect hits & hp70 & hit15>,,attack:1690,force_strike:293,skill_1:2027,skill_2:1356,skill_3:1226,team_buff:989,team_energy:115,s1_energized:101,s3_energized:46,s2_energized:34
 5865,_c_D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren],!<energy & always connect hits & hp70 & hit15>,,attack:1250,force_strike:216,skill_1:1497,skill_2:1004,skill_3:906,team_buff:989
-11579,D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],<buff all team>,,attack:3767,force_strike:0,skill_1:2240,skill_2:1443,skill_3:0,team_buff:2839,s2_boost:1288
+11445,D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],<buff all team>,,attack:3767,force_strike:0,skill_1:2240,skill_2:1443,skill_3:0,team_buff:2839,s2_boost:1154
 6381,_c_D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],!<buff all team>,,attack:3239,force_strike:0,skill_1:1915,skill_2:1226,skill_3:0,team_buff:0
 5244,D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],<RO proc at 0s 60s 120s & c4+fs>,,attack:1383,force_strike:830,skill_1:2315,skill_2:0,skill_3:715,team_buff:0
 4176,_c_D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],!<RO proc at 0s 60s 120s & c4+fs>,,attack:1653,force_strike:0,skill_1:1927,skill_2:0,skill_3:595,team_buff:0
@@ -280,5 +280,5 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 8455,_c_Sazanka,4*,shadow,axe,4601,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi];dpsrange:(7033~9467),!<80 resist & hp70>,,attack:1957,force_strike:249,skill_1:2616,skill_2:0,skill_3:1005,team_buff:0,bleed:2586,fs_boost:40
 10913,Natalie,5*,shadow,blade,4737,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(10773~10972),<energy & hp20 & s2 without str buff>,,attack:2494,force_strike:79,skill_1:4062,skill_2:0,skill_3:1368,team_buff:0,s1_crisis:2475,s1_energized:109,s1_crisis_energized:187,s3_energized:135
 6550,_c_Natalie,5*,shadow,blade,4737,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(6550~6550),!<energy & hp20 & s2 without str buff>,,attack:2003,force_strike:68,skill_1:3307,skill_2:0,skill_3:1170,team_buff:0
-12638,G_Luca,5*,light,blade,6799,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(11500~13513),<hit15 & hp70>,use The Wyrmclan Duo + Spirit of the Season when para + buffed,attack:4249,force_strike:0,skill_1:6644,skill_2:0,skill_3:1744,team_buff:0
-8717,_c_G_Luca,5*,light,blade,6799,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(7512~9836),!<hit15 & hp70>,use The Wyrmclan Duo + Spirit of the Season when para + buffed,attack:2846,force_strike:0,skill_1:4733,skill_2:0,skill_3:1137,team_buff:0
+12714,G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten],<hit15 & hp70>,,attack:4303,force_strike:0,skill_1:6655,skill_2:0,skill_3:1755,team_buff:0
+10176,_c_G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten],!<hit15 & hp70>,,attack:3355,force_strike:0,skill_1:5506,skill_2:0,skill_3:1314,team_buff:0
