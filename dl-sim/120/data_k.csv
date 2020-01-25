@@ -23,8 +23,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5426,_c_B_Zardin,5*,light,blade,3769,[Resounding_Rendition+Jewels_of_the_Sun][Cupid],!<energy & hp70>,no s2,attack:2280,force_strike:0,skill_1:2089,skill_2:0,skill_3:787,team_buff:268
 6177,Berserker,4*,shadow,sword,3623,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],<last offense & shapeshift at 60s & hp70>,,attack:1192,force_strike:876,skill_1:2785,skill_2:0,skill_3:1322,team_buff:0
 5371,_c_Berserker,4*,shadow,sword,3623,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<last offense & shapeshift at 60s & hp70>,,attack:1024,force_strike:754,skill_1:2407,skill_2:0,skill_3:1185,team_buff:0
-15575,Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<buff all team & hp70>,,attack:2074,force_strike:0,skill_1:2933,skill_2:0,skill_3:1802,team_buff:3040,bleed:5725
-12996,_c_Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<buff all team & hp70>,,attack:1821,force_strike:0,skill_1:2578,skill_2:0,skill_3:1584,team_buff:1978,bleed:5033
+15655,Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<buff all team & hp70>,,attack:2022,force_strike:108,skill_1:2920,skill_2:0,skill_3:1795,team_buff:3027,bleed:5780
+13069,_c_Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<buff all team & hp70>,,attack:1776,force_strike:95,skill_1:2567,skill_2:0,skill_3:1578,team_buff:1970,bleed:5081
 13981,Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo; 95% poison uptime,attack:2598,force_strike:0,skill_1:5229,skill_2:2649,skill_3:2166,team_buff:0,s1_poison:1196,s2_crisis:141
 8648,_c_Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo,attack:1711,force_strike:0,skill_1:3543,skill_2:1736,skill_3:1449,team_buff:0,s1_poison:0,s2_crisis:208
 7067,Celliera,4*,water,blade,3810,[Resounding_Rendition+Jewels_of_the_Sun][Siren],<hp70>,,attack:2211,force_strike:0,skill_1:3427,skill_2:0,skill_3:1428,team_buff:0
@@ -263,7 +263,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 10740,_c_Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi],!<hp70>,no poison,attack:1722,force_strike:0,skill_1:3706,skill_2:0,skill_3:863,team_buff:0,bleed:4448
 8800,Sinoa,4*,flame,wand,3706,[Candy_Couriers+Flash_of_Genius][Sakuya],<hp100 & hit15>,5c+fs,attack:2290,force_strike:321,skill_1:0,skill_2:2509,skill_3:1344,team_buff:2334
 7406,_c_Sinoa,4*,flame,wand,3706,[Candy_Couriers+Flash_of_Genius][Sakuya],!<hp100 & hit15>,5c+fs,attack:1796,force_strike:252,skill_1:0,skill_2:1968,skill_3:1054,team_buff:2334
-13270,Patia,4*,shadow,lance,3683,[Valiant_Crown+Luck_of_the_Draw][Shinobi], ,,attack:2331,force_strike:280,skill_1:0,skill_2:1914,skill_3:1244,team_buff:4460,bleed:3038
+14134,Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],<hp70>,,attack:2507,force_strike:246,skill_1:0,skill_2:2168,skill_3:1640,team_buff:4009,bleed:3562
+13356,_c_Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],!<hp70>,,attack:2314,force_strike:227,skill_1:0,skill_2:2001,skill_3:1514,team_buff:4009,bleed:3288
 11428,Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],<buff all teammates & hp70 & hit15>,,attack:2426,force_strike:0,skill_1:5116,skill_2:0,skill_3:1512,team_buff:2373
 6527,_c_Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],!<buff all teammates & hp70 & hit15>,,attack:1971,force_strike:0,skill_1:3516,skill_2:0,skill_3:1039,team_buff:0
 10955,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(8173~12373),<hp70>,,attack:2097,force_strike:0,skill_1:3164,skill_2:1159,skill_3:869,team_buff:0,bleed:3665
