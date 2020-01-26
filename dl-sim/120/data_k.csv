@@ -25,8 +25,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5371,_c_Berserker,4*,shadow,sword,3623,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<last offense & shapeshift at 60s & hp70>,,attack:1024,force_strike:754,skill_1:2407,skill_2:0,skill_3:1185,team_buff:0
 15655,Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<buff all team & hp70>,,attack:2022,force_strike:108,skill_1:2920,skill_2:0,skill_3:1795,team_buff:3027,bleed:5780
 13069,_c_Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<buff all team & hp70>,,attack:1776,force_strike:95,skill_1:2567,skill_2:0,skill_3:1578,team_buff:1970,bleed:5081
-13981,Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo; 95% poison uptime,attack:2598,force_strike:0,skill_1:5229,skill_2:2649,skill_3:2166,team_buff:0,s1_poison:1196,s2_crisis:141
-8648,_c_Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],!<0 resist & hp80 & RO proc at 0s 60s 120s>,s2 drops combo,attack:1711,force_strike:0,skill_1:3543,skill_2:1736,skill_3:1449,team_buff:0,s1_poison:0,s2_crisis:208
+13945,Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],<0 resist & RO proc at 0s 60s 120s & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:2598,force_strike:0,skill_1:5229,skill_2:2649,skill_3:2166,team_buff:0,s1_poison:1196,s2_crisis:105
+8440,_c_Cassandra,5*,shadow,wand,3893,[Candy_Couriers+The_Plaguebringer][Shinobi],!<0 resist & RO proc at 0s 60s 120s & hp=80%>,no counter damage; s2 drops combo,attack:1711,force_strike:0,skill_1:3543,skill_2:1736,skill_3:1449,team_buff:0,s1_poison:0,s2_crisis:0
 7067,Celliera,4*,water,blade,3810,[Resounding_Rendition+Jewels_of_the_Sun][Siren],<hp70>,,attack:2211,force_strike:0,skill_1:3427,skill_2:0,skill_3:1428,team_buff:0
 5823,_c_Celliera,4*,water,blade,3810,[Resounding_Rendition+Jewels_of_the_Sun][Siren],!<hp70>,,attack:1822,force_strike:0,skill_1:2824,skill_2:0,skill_3:1177,team_buff:0
 11792,Chelsea,5*,flame,bow,3804,[Forest_Bonds+Dear_Diary][Sakuya],<RO proc at 0s 60s 120s>,,attack:3232,force_strike:0,skill_1:5975,skill_2:0,skill_3:2584,team_buff:0
@@ -213,8 +213,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5557,_c_V_Orion,3*,flame,sword,3815,[The_Shining_Overlord+Elegant_Escort][Sakuya],!<shapeshift at 60s & 0 resist>,no s2,attack:1389,force_strike:635,skill_1:2525,skill_2:0,skill_3:1007,team_buff:0,s1_burn:0
 8907,Vanessa,4*,flame,axe,3913,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],<last offense & hp70>,,attack:2335,force_strike:424,skill_1:3343,skill_2:1360,skill_3:1073,team_buff:369
 7879,_c_Vanessa,4*,flame,axe,3913,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],!<last offense & hp70>,,attack:2019,force_strike:363,skill_1:2930,skill_2:1227,skill_3:968,team_buff:369
-11021,Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],<hp=80% & hit15>,,attack:1956,force_strike:180,skill_1:5139,skill_2:1834,skill_3:1293,team_buff:359,s1_crisis:256
-9773,_c_Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],!<hp=80% & hit15>,,attack:1677,force_strike:154,skill_1:4405,skill_2:1572,skill_3:1108,team_buff:359,s1_crisis:495
+11021,Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],<hit15 & hp=80%>,,attack:1956,force_strike:180,skill_1:5139,skill_2:1834,skill_3:1293,team_buff:359,s1_crisis:256
+9277,_c_Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],!<hit15 & hp=80%>,,attack:1677,force_strike:154,skill_1:4405,skill_2:1572,skill_3:1108,team_buff:359,s1_crisis:0
 6774,Vice,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hit15>,,attack:1840,force_strike:193,skill_1:2558,skill_2:1090,skill_3:1091,team_buff:0
 5486,_c_Vice,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],!<hit15>,,attack:1490,force_strike:156,skill_1:2072,skill_2:882,skill_3:884,team_buff:0
 6074,Vida,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hit15>,,attack:1963,force_strike:245,skill_1:2712,skill_2:0,skill_3:1064,team_buff:0,fs_boost:87
@@ -279,7 +279,7 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 10566,_c_Ezelith,5*,flame,dagger,5686,[Twinfold_Bonds+Levins_Champion][Arctos];dpsrange:(10243~11168),!<hit15 & hp70>,,attack:3985,force_strike:396,skill_1:4729,skill_2:0,skill_3:1269,team_buff:184
 9582,Sazanka,4*,shadow,axe,4601,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi];dpsrange:(7640~10692),<80 resist & hp70>,,attack:2253,force_strike:277,skill_1:3123,skill_2:0,skill_3:1062,team_buff:0,bleed:2824,fs_boost:39
 8586,_c_Sazanka,4*,shadow,axe,4601,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi];dpsrange:(6434~9557),!<80 resist & hp70>,,attack:2022,force_strike:250,skill_1:2794,skill_2:0,skill_3:936,team_buff:0,bleed:2545,fs_boost:36
-10138,Natalie,5*,shadow,blade,4737,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(9978~10192),<energy & hp20 & s2 without str buff>,,attack:2316,force_strike:73,skill_1:3803,skill_2:0,skill_3:1286,team_buff:0,s1_crisis:2258,s1_crisis_energized:188,s1_energized:133,s3_energized:76
-6065,_c_Natalie,5*,shadow,blade,4737,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(6065~6065),!<energy & hp20 & s2 without str buff>,,attack:1876,force_strike:64,skill_1:3022,skill_2:0,skill_3:1102,team_buff:0
+10139,Natalie,5*,shadow,blade,3947,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(9978~10192),<energy & hp=20%>,s2 without str buff,attack:2316,force_strike:73,skill_1:3803,skill_2:0,skill_3:1286,team_buff:0,s1_crisis:2258,s1_crisis_energized:187,s1_energized:132,s3_energized:78
+7481,_c_Natalie,5*,shadow,blade,3947,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(7481~7481),!<energy & hp=20%>,s2 without str buff,attack:2316,force_strike:73,skill_1:3803,skill_2:0,skill_3:1286,team_buff:0,s1_crisis:0
 11044,G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(9387~12489),<hit15 & hp70>,,attack:3793,force_strike:0,skill_1:5721,skill_2:0,skill_3:1529,team_buff:0
 8103,_c_G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(6210~10170),!<hit15 & hp70>,,attack:2789,force_strike:0,skill_1:4230,skill_2:0,skill_3:1082,team_buff:0
