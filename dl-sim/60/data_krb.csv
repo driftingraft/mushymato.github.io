@@ -267,6 +267,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 15132,_c_Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],!<hp70>,,attack:2324,force_strike:187,skill_1:0,skill_2:2882,skill_3:1430,team_buff:4372,bleed:3935
 11789,Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],<buff all teammates & hp70 & hit15>,,attack:2180,force_strike:0,skill_1:4978,skill_2:0,skill_3:2084,team_buff:2545
 6625,_c_Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],!<buff all teammates & hp70 & hit15>,,attack:1770,force_strike:0,skill_1:3422,skill_2:0,skill_3:1432,team_buff:0
+12583,G_Luca,5*,light,blade,3766,[The_Wyrmclan_Duo+A_New_Years_Battle][Daikokuten],<hit15 & hp70>,,attack:4127,force_strike:0,skill_1:7543,skill_2:0,skill_3:912,team_buff:0
+8775,_c_G_Luca,5*,light,blade,3766,[The_Wyrmclan_Duo+A_New_Years_Battle][Daikokuten],!<hit15 & hp70>,,attack:2919,force_strike:0,skill_1:5222,skill_2:0,skill_3:633,team_buff:0
 11358,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(8329~12515),<hp70>,,attack:2132,force_strike:0,skill_1:3985,skill_2:1338,skill_3:669,team_buff:0,bleed:3233
 9072,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(6635~9970),!<hp70>,,attack:1698,force_strike:0,skill_1:3175,skill_2:1066,skill_3:533,team_buff:0,bleed:2599
 10620,S_Cleo,5*,light,bow,5276,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(9654~9654),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 87% paralysis uptime,attack:2856,force_strike:0,skill_1:3840,skill_2:0,skill_3:1479,team_buff:492,s1_paralysis:1035,s1_boost:915
@@ -281,5 +283,3 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 8836,_c_Sazanka,4*,shadow,axe,4601,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi];dpsrange:(6855~9650),!<80 resist & hp70>,,attack:1882,force_strike:272,skill_1:3502,skill_2:0,skill_3:717,team_buff:0,bleed:2433,fs_boost:27
 12819,Natalie,5*,shadow,blade,3959,[Tough_Love+The_Chocolatiers][Shinobi];dpsrange:(12679~12880),<energy & last offense & hp=20%>,s2 without str buff,attack:2392,force_strike:0,skill_1:4730,skill_2:0,skill_3:2371,team_buff:0,s1_crisis:3027,s1_crisis_energized:139,s3_energized:142,s1_energized:15
 8248,_c_Natalie,5*,shadow,blade,3959,[Tough_Love+The_Chocolatiers][Shinobi];dpsrange:(8248~8248),!<energy & last offense & hp=20%>,s2 without str buff,attack:2160,force_strike:0,skill_1:4054,skill_2:0,skill_3:2033,team_buff:0,s1_crisis:0
-11955,G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(9501~13665),<hit15 & hp70>,,attack:3937,force_strike:0,skill_1:7162,skill_2:0,skill_3:856,team_buff:0
-8568,_c_G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(6475~11544),!<hit15 & hp70>,,attack:2836,force_strike:0,skill_1:5134,skill_2:0,skill_3:597,team_buff:0

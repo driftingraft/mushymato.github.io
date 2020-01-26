@@ -267,6 +267,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 18400,_c_Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],!<hp70>,,attack:2490,force_strike:243,skill_1:0,skill_2:2948,skill_3:1820,team_buff:5518,bleed:5377
 12396,Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],<buff all teammates & hp70 & hit15>,,attack:2423,force_strike:0,skill_1:5323,skill_2:0,skill_3:1980,team_buff:2669
 7012,_c_Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],!<buff all teammates & hp70 & hit15>,,attack:1975,force_strike:0,skill_1:3671,skill_2:0,skill_3:1366,team_buff:0
+14373,G_Luca,5*,light,blade,3766,[The_Wyrmclan_Duo+A_New_Years_Battle][Daikokuten],<hit15 & hp70>,,attack:4371,force_strike:0,skill_1:8002,skill_2:0,skill_3:1999,team_buff:0
+10726,_c_G_Luca,5*,light,blade,3766,[The_Wyrmclan_Duo+A_New_Years_Battle][Daikokuten],!<hit15 & hp70>,,attack:3244,force_strike:0,skill_1:6019,skill_2:0,skill_3:1461,team_buff:0
 13563,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(10737~15262),<hp70>,,attack:2205,force_strike:0,skill_1:4004,skill_2:1423,skill_3:1186,team_buff:0,bleed:4744
 10872,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(8552~12197),!<hp70>,,attack:1762,force_strike:0,skill_1:3199,skill_2:1137,skill_3:948,team_buff:0,bleed:3824
 12712,S_Cleo,5*,light,bow,5276,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(12355~13293),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 81% paralysis uptime,attack:3111,force_strike:0,skill_1:4546,skill_2:0,skill_3:1839,team_buff:681,s1_paralysis:1112,s1_boost:1419
@@ -281,5 +283,3 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 10672,_c_Sazanka,4*,shadow,axe,4601,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi];dpsrange:(8603~12111),!<80 resist & hp70>,,attack:1974,force_strike:290,skill_1:3518,skill_2:0,skill_3:1272,team_buff:0,fs_boost:47,bleed:3569
 12875,Natalie,5*,shadow,blade,3947,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(12741~12932),<energy & hp=20%>,s2 without str buff,attack:2462,force_strike:0,skill_1:4693,skill_2:0,skill_3:2372,team_buff:0,s1_crisis:2859,s1_energized:214,s1_crisis_energized:249,s3_energized:24
 9527,_c_Natalie,5*,shadow,blade,3947,[Heralds_of_Hinomoto+One_with_the_Shadows][Shinobi];dpsrange:(9527~9527),!<energy & hp=20%>,s2 without str buff,attack:2462,force_strike:0,skill_1:4693,skill_2:0,skill_3:2372,team_buff:0,s1_crisis:0
-13900,G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(12566~15101),<hit15 & hp70>,,attack:4249,force_strike:0,skill_1:7693,skill_2:0,skill_3:1957,team_buff:0
-10958,_c_G_Luca,5*,light,blade,3777,[Resounding_Rendition+Levins_Champion][Daikokuten];dpsrange:(9529~12637),!<hit15 & hp70>,,attack:3277,force_strike:0,skill_1:6207,skill_2:0,skill_3:1472,team_buff:0
