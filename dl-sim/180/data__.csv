@@ -41,8 +41,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5943,_c_D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid],!<buff all team>,,attack:3017,force_strike:0,skill_1:1784,skill_2:1142,skill_3:0,team_buff:0
 4959,D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],<RO proc at 0s 60s 120s & c4+fs>,,attack:1308,force_strike:785,skill_1:2189,skill_2:0,skill_3:676,team_buff:0
 3949,_c_D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne],!<RO proc at 0s 60s 120s & c4+fs>,,attack:1563,force_strike:0,skill_1:1822,skill_2:0,skill_3:563,team_buff:0
-10128,D_Xainfried,4*,wind,wand,3811,[Candy_Couriers+A_Dogs_Day][Longlong],<buff all team & shapeshift at 90s>,,attack:2851,force_strike:352,skill_1:0,skill_2:1411,skill_3:1465,team_buff:4047
-5961,_c_D_Xainfried,4*,wind,wand,3811,[Candy_Couriers+A_Dogs_Day][Longlong],!<buff all team & shapeshift at 90s>,,attack:2797,force_strike:345,skill_1:0,skill_2:1383,skill_3:1434,team_buff:0
+10100,D_Xainfried,4*,wind,wand,3811,[Candy_Couriers+A_Dogs_Day][Longlong],<buff all team & shapeshift at 90s>,,attack:2823,force_strike:352,skill_1:0,skill_2:1411,skill_3:1465,team_buff:4047
+5933,_c_D_Xainfried,4*,wind,wand,3811,[Candy_Couriers+A_Dogs_Day][Longlong],!<buff all team & shapeshift at 90s>,,attack:2768,force_strike:345,skill_1:0,skill_2:1383,skill_3:1434,team_buff:0
 7244,D_Xander,4*,water,wand,3714,[Candy_Couriers+Flash_of_Genius][Siren],<energy & hit15>,,attack:1926,force_strike:0,skill_1:3303,skill_2:0,skill_3:1170,team_buff:742,team_energy:57,s1_energized:44
 6228,_c_D_Xander,4*,water,wand,3714,[Candy_Couriers+Flash_of_Genius][Siren],!<energy & hit15>,,attack:1650,force_strike:0,skill_1:2831,skill_2:0,skill_3:1003,team_buff:742
 9937,Delphi,5*,shadow,dagger,3727,[Mega_Friends+The_Plaguebringer][Marishiten],<0 resist & s1 defdown for 10s>,91% poison uptime,attack:935,force_strike:827,skill_1:426,skill_2:411,skill_3:542,team_buff:2134,fs_boost:93,fs_poison:3190,s2_poison:1377
@@ -54,8 +54,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6231,Elias,4*,light,bow,3440,[Forest_Bonds+Dear_Diary][Daikokuten],<energy & last offense & RO proc at 0s 60s 120s & c4+fs & no s2>,,attack:1750,force_strike:1047,skill_1:2615,skill_2:0,skill_3:818,team_buff:0
 4472,_c_Elias,4*,light,bow,3440,[Forest_Bonds+Dear_Diary][Daikokuten],!<energy & last offense & RO proc at 0s 60s 120s & c4+fs & no s2>,,attack:1996,force_strike:0,skill_1:2021,skill_2:0,skill_3:454,team_buff:0
 12037,Elisanne,4*,water,lance,3768,[Beach_Battle+From_Whence_He_Came][Halloween_Maritimus], ,no s2 or s3,attack:2316,force_strike:0,skill_1:0,skill_2:0,skill_3:0,team_buff:9721
-12622,Emma,4*,flame,lance,3849,[Halidom_Grooms+From_Whence_He_Came][Cerberus],<buff all team>,,attack:2550,force_strike:685,skill_1:0,skill_2:0,skill_3:989,team_buff:8397
-4225,_c_Emma,4*,flame,lance,3849,[Halidom_Grooms+From_Whence_He_Came][Cerberus],!<buff all team>,,attack:2550,force_strike:685,skill_1:0,skill_2:0,skill_3:989,team_buff:0
+12566,Emma,4*,flame,lance,3849,[Halidom_Grooms+From_Whence_He_Came][Cerberus],<buff all team>,,attack:2531,force_strike:680,skill_1:0,skill_2:0,skill_3:957,team_buff:8397
+4169,_c_Emma,4*,flame,lance,3849,[Halidom_Grooms+From_Whence_He_Came][Cerberus],!<buff all team>,,attack:2531,force_strike:680,skill_1:0,skill_2:0,skill_3:957,team_buff:0
 7333,Erik,3*,shadow,axe,3886,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],<hp70>,,attack:2061,force_strike:342,skill_1:2812,skill_2:1266,skill_3:850,team_buff:0
 6617,_c_Erik,3*,shadow,axe,3886,[Kung_Fu_Masters+Crystalian_Envoy][Shinobi],!<hp70>,,attack:1860,force_strike:309,skill_1:2537,skill_2:1142,skill_3:767,team_buff:0
 9725,Euden,4*,flame,sword,3997,[The_Shining_Overlord+Elegant_Escort][Sakuya],<shapeshift at 90s & 0 resist>,75% burn uptime,attack:1737,force_strike:658,skill_1:3574,skill_2:1536,skill_3:1033,team_buff:419,s1_burn:765
@@ -70,15 +70,15 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5702,_c_Fritz,4*,light,dagger,3587,[Twinfold_Bonds+Levins_Champion][Daikokuten],!<hit15 & hp70>,,attack:2196,force_strike:241,skill_1:1877,skill_2:0,skill_3:694,team_buff:389,fs_boost:302
 18107,G_Cleo,5*,shadow,wand,3705,[Candy_Couriers+Jewels_of_the_Sun][Shinobi],<hp70 & always in a1>,(the true cleo is here),attack:2085,force_strike:0,skill_1:7343,skill_2:724,skill_3:1705,team_buff:6248,fs_alt:0
 9982,_c_G_Cleo,5*,shadow,wand,3705,[Candy_Couriers+Jewels_of_the_Sun][Shinobi],!<hp70 & always in a1>,(the true cleo is here),attack:1557,force_strike:0,skill_1:5100,skill_2:550,skill_3:1296,team_buff:1476,fs_alt:0
-12644,G_Elisanne,5*,water,axe,3789,[Beach_Battle+From_Whence_He_Came][Halloween_Maritimus],<buff all team & energy>,,attack:2705,force_strike:332,skill_1:0,skill_2:0,skill_3:0,team_buff:9606
-3037,_c_G_Elisanne,5*,water,axe,3789,[Beach_Battle+From_Whence_He_Came][Halloween_Maritimus],!<buff all team & energy>,,attack:2705,force_strike:332,skill_1:0,skill_2:0,skill_3:0,team_buff:0
+12609,G_Elisanne,5*,water,axe,3789,[Beach_Battle+From_Whence_He_Came][Halloween_Maritimus],<buff all team & energy>,,attack:2677,force_strike:332,skill_1:0,skill_2:0,skill_3:0,team_buff:9599
+3010,_c_G_Elisanne,5*,water,axe,3789,[Beach_Battle+From_Whence_He_Came][Halloween_Maritimus],!<buff all team & energy>,,attack:2677,force_strike:332,skill_1:0,skill_2:0,skill_3:0,team_buff:0
 9979,G_Euden,5*,light,sword,3730,[The_Shining_Overlord+Sisters_Day_Out][Cupid],<shapeshift at 90s & 0 resist & s1 buff for 10s & get DC at start>,c2+fs; 22% paralysis uptime,attack:1647,force_strike:1694,skill_1:939,skill_2:969,skill_3:1175,team_buff:3402,s2_paralysis:149
 5680,_c_G_Euden,5*,light,sword,3730,[The_Shining_Overlord+Sisters_Day_Out][Cupid],!<shapeshift at 90s & 0 resist & s1 buff for 10s & get DC at start>,c2+fs,attack:1291,force_strike:1337,skill_1:798,skill_2:740,skill_3:913,team_buff:599,s2_paralysis:0
 8157,G_Mym,5*,flame,lance,3925,[Resounding_Rendition+Beautiful_Nothingness][Sakuya],<hp70>,get a1 boost half way; no dragon(see special page with dragon),attack:1682,force_strike:263,skill_1:3405,skill_2:1530,skill_3:864,team_buff:0,s2_boost:411
 7148,_c_G_Mym,5*,flame,lance,3925,[Resounding_Rendition+Beautiful_Nothingness][Sakuya],!<hp70>,get a1 boost half way; no dragon(see special page with dragon),attack:1474,force_strike:231,skill_1:2983,skill_2:1341,skill_3:757,team_buff:0,s2_boost:360
 8374,G_Ranzal,5*,wind,sword,3618,[The_Shining_Overlord+Jewels_of_the_Sun][Vayu],<shapeshift at 90s & hp70>,no s2,attack:1269,force_strike:698,skill_1:3676,skill_2:0,skill_3:1319,team_buff:0,s1_boost:1410
 7501,_c_G_Ranzal,5*,wind,sword,3618,[The_Shining_Overlord+Jewels_of_the_Sun][Vayu],!<shapeshift at 90s & hp70>,no s2,attack:1138,force_strike:625,skill_1:3290,skill_2:0,skill_3:1182,team_buff:0,s1_boost:1263
-9899,G_Sarisse,5*,flame,bow,3786,[Forest_Bonds+Dear_Diary][Sakuya],<never lose combos & c4+fs & RO proc at 0s 60s 120s>,,attack:1484,force_strike:436,skill_1:6058,skill_2:0,skill_3:1193,team_buff:726
+9501,G_Sarisse,5*,flame,bow,3786,[Forest_Bonds+Dear_Diary][Sakuya],<never lose combos & c4+fs & RO proc at 0s 60s 120s>,,attack:1458,force_strike:430,skill_1:5717,skill_2:0,skill_3:1167,team_buff:726
 6194,_c_G_Sarisse,5*,flame,bow,3786,[Forest_Bonds+Dear_Diary][Sakuya],!<never lose combos & c4+fs & RO proc at 0s 60s 120s>,,attack:1375,force_strike:0,skill_1:2961,skill_2:0,skill_3:1130,team_buff:727
 6245,H_Edward,3*,light,blade,3727,[Resounding_Rendition+Seaside_Princess][Cupid],<hp100 & hp70>,,attack:2500,force_strike:0,skill_1:2222,skill_2:888,skill_3:633,team_buff:0
 5015,_c_H_Edward,3*,light,blade,3727,[Resounding_Rendition+Seaside_Princess][Cupid],!<hp100 & hp70>,,attack:2008,force_strike:0,skill_1:1784,skill_2:713,skill_3:508,team_buff:0
