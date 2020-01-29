@@ -17,8 +17,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5333,_c_Annelie,5*,light,lance,3799,[Resounding_Rendition+Beautiful_Nothingness][Cupid],!<energy & hp70>,1121,attack:1666,force_strike:240,skill_1:1979,skill_2:542,skill_3:903,team_buff:0
 11125,Aoi,3*,flame,blade,4162,[Resounding_Rendition+Elegant_Escort][Sakuya],<hp70 & 0 resist>,79% burn uptime,attack:2763,force_strike:0,skill_1:4144,skill_2:1840,skill_3:1296,team_buff:0,s1_burn:754,s2_burn:324
 7800,_c_Aoi,3*,flame,blade,4162,[Resounding_Rendition+Elegant_Escort][Sakuya],!<hp70 & 0 resist>,,attack:2142,force_strike:0,skill_1:3229,skill_2:1452,skill_3:976,team_buff:0,s1_burn:0,s2_burn:0
-7958,Audric,4*,shadow,sword,3682,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],<shapeshift at 60s & hp70>,,attack:1320,force_strike:607,skill_1:3260,skill_2:1478,skill_3:1290,team_buff:0
-7129,_c_Audric,4*,shadow,sword,3682,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<shapeshift at 60s & hp70>,,attack:1186,force_strike:545,skill_1:2927,skill_2:1319,skill_3:1150,team_buff:0
+7917,Audric,4*,shadow,sword,3670,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis],<no shapeshift & hp70>,,attack:1871,force_strike:861,skill_1:2812,skill_2:1267,skill_3:1104,team_buff:0
+5857,_c_Audric,4*,shadow,sword,3670,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis],!<no shapeshift & hp70>,,attack:2391,force_strike:1094,skill_1:1430,skill_2:518,skill_3:421,team_buff:0
 7740,B_Zardin,5*,light,blade,3769,[Resounding_Rendition+Jewels_of_the_Sun][Cupid],<energy & hp70>,no s2,attack:2556,force_strike:0,skill_1:3419,skill_2:0,skill_3:1288,team_buff:290,s3_energized:97,s1_energized:86
 5879,_c_B_Zardin,5*,light,blade,3769,[Resounding_Rendition+Jewels_of_the_Sun][Cupid],!<energy & hp70>,no s2,attack:2280,force_strike:0,skill_1:2403,skill_2:0,skill_3:905,team_buff:290
 7006,Berserker,4*,shadow,sword,3611,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis],<no shapeshift & last offense & hp70>,,attack:1689,force_strike:1241,skill_1:2765,skill_2:0,skill_3:1309,team_buff:0
@@ -156,8 +156,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7219,_c_Nicolas,3*,wind,wand,3826,[Candy_Couriers+Primal_Crisis][Vayu],!<hit15>,,attack:1800,force_strike:0,skill_1:2873,skill_2:1409,skill_3:1134,team_buff:0
 16633,Noelle,4*,wind,wand,3798,[A_Dogs_Day+Castle_Cheer_Corps][Freyja],<buff all team>,,attack:2317,force_strike:35,skill_1:0,skill_2:1198,skill_3:1035,team_buff:12046
 4586,_c_Noelle,4*,wind,wand,3798,[A_Dogs_Day+Castle_Cheer_Corps][Freyja],!<buff all team>,,attack:2317,force_strike:35,skill_1:0,skill_2:1198,skill_3:1035,team_buff:0
-7927,Norwin,4*,shadow,bow,3633,[Forest_Bonds+Dear_Diary][Shinobi],<RO proc at 0s 60s 120s & 80 resist>,8% blind uptime,attack:1334,force_strike:191,skill_1:4729,skill_2:0,skill_3:1324,team_buff:347
-6411,_c_Norwin,4*,shadow,bow,3633,[Forest_Bonds+Dear_Diary][Shinobi],!<RO proc at 0s 60s 120s & 80 resist>,,attack:1129,force_strike:164,skill_1:4004,skill_2:0,skill_3:1112,team_buff:0
+8138,Norwin,4*,shadow,bow,3621,[Forest_Bonds+Dear_Diary][Fatalis],<no shapeshift & RO proc at 0s 60s 120s & 80 resist>,8% blind uptime,attack:1994,force_strike:286,skill_1:4303,skill_2:0,skill_3:1205,team_buff:347
+4900,_c_Norwin,4*,shadow,bow,3621,[Forest_Bonds+Dear_Diary][Fatalis],!<no shapeshift & RO proc at 0s 60s 120s & 80 resist>,,attack:1998,force_strike:574,skill_1:1821,skill_2:0,skill_3:505,team_buff:0
 10849,Odetta,4*,light,sword,3704,[Resounding_Rendition+Stellar_Show][Cupid],<buff all team & hp70>,c2+fs,attack:1869,force_strike:2077,skill_1:2608,skill_2:0,skill_3:1235,team_buff:3058
 7392,_c_Odetta,4*,light,sword,3704,[Resounding_Rendition+Stellar_Show][Cupid],!<buff all team & hp70>,c2+fs,attack:1649,force_strike:1832,skill_1:2301,skill_2:0,skill_3:1089,team_buff:519
 7508,Orion,4*,shadow,dagger,3583,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hit15>,,attack:1917,force_strike:203,skill_1:2536,skill_2:1530,skill_3:1320,team_buff:0
@@ -185,8 +185,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6985,_c_Renelle,3*,flame,dagger,3859,[Twinfold_Bonds+Elegant_Escort][Sakuya],!<hit15 & 0 resist>,,attack:1616,force_strike:276,skill_1:2610,skill_2:1210,skill_3:1127,team_buff:144,s1_burn:0,s2_burn:0
 7915,Rex,3*,water,axe,3784,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],<hp70>,,attack:2134,force_strike:145,skill_1:3170,skill_2:1427,skill_3:1037,team_buff:0
 7306,_c_Rex,3*,water,axe,3784,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],!<hp70>,,attack:1970,force_strike:134,skill_1:2926,skill_2:1317,skill_3:957,team_buff:0
-8735,Rodrigo,3*,shadow,sword,3682,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],<hp70 & shapeshift at 60s>,,attack:1603,force_strike:663,skill_1:3403,skill_2:1421,skill_3:1643,team_buff:0
-7376,_c_Rodrigo,3*,shadow,sword,3682,[The_Shining_Overlord+Beautiful_Nothingness][Shinobi],!<hp70 & shapeshift at 60s>,,attack:1354,force_strike:560,skill_1:2868,skill_2:1204,skill_3:1387,team_buff:0
+8616,Rodrigo,3*,shadow,sword,3670,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis],<no shapeshift & hp70>,,attack:2227,force_strike:922,skill_1:2871,skill_2:1206,skill_3:1389,team_buff:0
+6049,_c_Rodrigo,3*,shadow,sword,3670,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis],!<no shapeshift & hp70>,,attack:2475,force_strike:1094,skill_1:1219,skill_2:627,skill_3:632,team_buff:0
 5199,Ryozen,4*,light,lance,3736,[Resounding_Rendition+Beautiful_Nothingness][Cupid],<hp70>,,attack:2083,force_strike:418,skill_1:0,skill_2:1480,skill_3:1217,team_buff:0
 4645,_c_Ryozen,4*,light,lance,3736,[Resounding_Rendition+Beautiful_Nothingness][Cupid],!<hp70>,,attack:1861,force_strike:373,skill_1:0,skill_2:1322,skill_3:1088,team_buff:0
 11143,S_Celliera,5*,water,sword,3794,[Valiant_Crown+Jewels_of_the_Sun][Siren],<hp70>,no bog; don't s3; c2fs,attack:1458,force_strike:1081,skill_1:4540,skill_2:1186,skill_3:1577,team_buff:1298
@@ -195,8 +195,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6877,_c_S_Estelle,4*,water,wand,3656,[Candy_Couriers+Primal_Crisis][Siren],!<buff all team & hit15>,,attack:1976,force_strike:0,skill_1:3236,skill_2:0,skill_3:1268,team_buff:395
 9898,S_Julietta,5*,water,axe,3827,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],<buff all team & hp70>,no fs; no bog,attack:2485,force_strike:0,skill_1:3923,skill_2:0,skill_3:1690,team_buff:1799
 7476,_c_S_Julietta,5*,water,axe,3827,[Kung_Fu_Masters+Jewels_of_the_Sun][Siren],!<buff all team & hp70>,no fs; no bog,attack:2294,force_strike:0,skill_1:3621,skill_2:0,skill_3:1560,team_buff:0
-10501,S_Maribelle,5*,flame,wand,3776,[Candy_Couriers+Flash_of_Genius][Sakuya],<hp100 & hit15>,,attack:2115,force_strike:0,skill_1:4381,skill_2:2178,skill_3:1375,team_buff:451
-8058,_c_S_Maribelle,5*,flame,wand,3776,[Candy_Couriers+Flash_of_Genius][Sakuya],!<hp100 & hit15>,,attack:1813,force_strike:0,skill_1:3199,skill_2:1590,skill_3:1003,team_buff:451
+11190,S_Maribelle,5*,flame,wand,3774,[Candy_Couriers+Primal_Crisis][Sakuya],<hp100 & hit15>,,attack:2260,force_strike:0,skill_1:4681,skill_2:2327,skill_3:1469,team_buff:451
+8054,_c_S_Maribelle,5*,flame,wand,3774,[Candy_Couriers+Primal_Crisis][Sakuya],!<hp100 & hit15>,,attack:1812,force_strike:0,skill_1:3197,skill_2:1589,skill_3:1003,team_buff:451
 7078,S_Ranzal,4*,water,blade,3738,[Resounding_Rendition+First_Rate_Hospitality][Siren],<buff all team & last offense & hp70>,no bog,attack:1989,force_strike:0,skill_1:3267,skill_2:0,skill_3:1098,team_buff:723
 5461,_c_S_Ranzal,4*,water,blade,3738,[Resounding_Rendition+First_Rate_Hospitality][Siren],!<buff all team & last offense & hp70>,no bog,attack:1674,force_strike:0,skill_1:2812,skill_2:0,skill_3:975,team_buff:0
 9045,Serena,4*,flame,sword,3764,[The_Shining_Overlord+Beautiful_Nothingness][Sakuya],<always connect hits & shapeshift at 60s & hp70>,,attack:1546,force_strike:705,skill_1:3857,skill_2:1759,skill_3:1175,team_buff:0
@@ -205,20 +205,20 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5511,_c_Sufang,4*,wind,dagger,3557,[Twinfold_Bonds+Levins_Champion][Vayu],!<hit15 & hp70>,,attack:1631,force_strike:181,skill_1:2113,skill_2:0,skill_3:1584,team_buff:0
 9905,Sylas,5*,wind,lance,3729,[Resounding_Rendition+The_Plaguebringer][Vayu],<hp70 & 0 resist>,not consider skill haste for team; 90% poison uptime,attack:2178,force_strike:153,skill_1:4066,skill_2:0,skill_3:1834,team_buff:497,s1_poison:1175
 6277,_c_Sylas,5*,wind,lance,3729,[Resounding_Rendition+The_Plaguebringer][Vayu],!<hp70 & 0 resist>,not consider skill haste for team,attack:1529,force_strike:110,skill_1:2881,skill_2:0,skill_3:1258,team_buff:497,s1_poison:0
-7574,Taro,3*,shadow,blade,3907,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],<hp70>,,attack:1756,force_strike:0,skill_1:3146,skill_2:1285,skill_3:1386,team_buff:0
-6637,_c_Taro,3*,shadow,blade,3907,[Resounding_Rendition+Beautiful_Nothingness][Shinobi],!<hp70>,,attack:1539,force_strike:0,skill_1:2757,skill_2:1126,skill_3:1214,team_buff:0
+7568,Taro,3*,shadow,blade,3895,[Resounding_Rendition+Beautiful_Nothingness][Fatalis],<no shapeshift & hp70>,,attack:2560,force_strike:0,skill_1:2708,skill_2:1106,skill_3:1193,team_buff:0
+5051,_c_Taro,3*,shadow,blade,3895,[Resounding_Rendition+Beautiful_Nothingness][Fatalis],!<no shapeshift & hp70>,,attack:3019,force_strike:0,skill_1:1101,skill_2:396,skill_3:534,team_buff:0
 9767,V_Ezelith,4*,flame,bow,3744,[Forest_Bonds+Dear_Diary][Sakuya],<never lose combos & 0 resist & RO proc at 0s 60s 120s & c4+fs>,81% burn uptime,attack:1358,force_strike:379,skill_1:3131,skill_2:1530,skill_3:1453,team_buff:913,s1_burn:846,s3_energized:154
 7758,_c_V_Ezelith,4*,flame,bow,3744,[Forest_Bonds+Dear_Diary][Sakuya],!<never lose combos & 0 resist & RO proc at 0s 60s 120s & c4+fs>,,attack:1461,force_strike:0,skill_1:2729,skill_2:1339,skill_3:1271,team_buff:956,s1_burn:0
 8561,V_Orion,3*,flame,sword,3815,[The_Shining_Overlord+Elegant_Escort][Sakuya],<shapeshift at 60s & 0 resist>,no s2; 80% burn uptime,attack:1752,force_strike:797,skill_1:3573,skill_2:0,skill_3:1519,team_buff:0,s1_burn:918
 6087,_c_V_Orion,3*,flame,sword,3815,[The_Shining_Overlord+Elegant_Escort][Sakuya],!<shapeshift at 60s & 0 resist>,no s2,attack:1389,force_strike:635,skill_1:2904,skill_2:0,skill_3:1159,team_buff:0,s1_burn:0
 9803,Vanessa,4*,flame,axe,3913,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],<last offense & hp70>,,attack:2335,force_strike:424,skill_1:3845,skill_2:1564,skill_3:1234,team_buff:399
 8677,_c_Vanessa,4*,flame,axe,3913,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],!<last offense & hp70>,,attack:2019,force_strike:363,skill_1:3369,skill_2:1411,skill_3:1114,team_buff:399
-11021,Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],<hit15 & hp=80%>,,attack:1956,force_strike:180,skill_1:5139,skill_2:1834,skill_3:1293,team_buff:359,s1_crisis:256
-9277,_c_Veronica,5*,shadow,wand,3738,[Candy_Couriers+Flash_of_Genius][Shinobi],!<hit15 & hp=80%>,,attack:1677,force_strike:154,skill_1:4405,skill_2:1572,skill_3:1108,team_buff:359,s1_crisis:0
-7485,Vice,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hit15>,,attack:1840,force_strike:193,skill_1:2942,skill_2:1253,skill_3:1255,team_buff:0
-6062,_c_Vice,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],!<hit15>,,attack:1490,force_strike:156,skill_1:2383,skill_2:1015,skill_3:1016,team_buff:0
-6640,Vida,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],<hit15>,,attack:1963,force_strike:245,skill_1:3119,skill_2:0,skill_3:1224,team_buff:0,fs_boost:87
-5378,_c_Vida,3*,shadow,dagger,3569,[Twinfold_Bonds+Howling_to_the_Heavens][Shinobi],!<hit15>,,attack:1590,force_strike:198,skill_1:2526,skill_2:0,skill_3:991,team_buff:0,fs_boost:71
+11751,Veronica,5*,shadow,wand,3736,[Candy_Couriers+Primal_Crisis][Shinobi],<hit15 & hp=80%>,,attack:2090,force_strike:193,skill_1:5491,skill_2:1960,skill_3:1382,team_buff:359,s1_crisis:274
+9273,_c_Veronica,5*,shadow,wand,3736,[Candy_Couriers+Primal_Crisis][Shinobi],!<hit15 & hp=80%>,,attack:1676,force_strike:154,skill_1:4402,skill_2:1571,skill_3:1108,team_buff:359,s1_crisis:0
+7704,Vice,3*,shadow,dagger,3557,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis],<no shapeshift & hit15>,,attack:2649,force_strike:278,skill_1:2578,skill_2:1098,skill_3:1099,team_buff:0
+5033,_c_Vice,3*,shadow,dagger,3557,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis],!<no shapeshift & hit15>,,attack:2517,force_strike:494,skill_1:1091,skill_2:464,skill_3:465,team_buff:0
+7112,Vida,3*,shadow,dagger,3557,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis],<no shapeshift & hit15>,,attack:2826,force_strike:353,skill_1:2733,skill_2:0,skill_3:1073,team_buff:0,fs_boost:126
+4798,_c_Vida,3*,shadow,dagger,3557,[Twinfold_Bonds+Howling_to_the_Heavens][Fatalis],!<no shapeshift & hit15>,,attack:2515,force_strike:681,skill_1:1058,skill_2:0,skill_3:450,team_buff:0,fs_boost:92
 8701,W_Aoi,5*,wind,dagger,3558,[Twinfold_Bonds+Levins_Champion][Vayu],<big hitbox & 80 resist & hit15 & hp70>,5% sleep uptime,attack:1574,force_strike:166,skill_1:3590,skill_2:0,skill_3:852,team_buff:247,s1_hit1:561,s1_hit2:569,s1_hit3:569,s1_hit4:569
 5414,_c_W_Aoi,5*,wind,dagger,3558,[Twinfold_Bonds+Levins_Champion][Vayu],!<big hitbox & 80 resist & hit15 & hp70>,,attack:1284,force_strike:136,skill_1:2832,skill_2:0,skill_3:700,team_buff:0,s1_hit1:460
 11746,W_Elisanne,5*,wind,sword,3580,[The_Shining_Overlord+Jewels_of_the_Sun][Vayu],<shapeshift at 60s & hp70 & s2 defdown for 10s>,2in1,attack:1399,force_strike:781,skill_1:5086,skill_2:1445,skill_3:1085,team_buff:1948
@@ -237,14 +237,14 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7893,_c_Xuanzang,4*,flame,lance,3840,[Resounding_Rendition+Beautiful_Nothingness][Sakuya],!<hp70>,,attack:1631,force_strike:193,skill_1:2907,skill_2:0,skill_3:1384,team_buff:1322,s1_boost:452
 10588,Yachiyo,4*,light,blade,3743,[Mega_Friends+Spirit_of_the_Season][Corsaint_Phoenix],<hp100 & 0 resist>,78% paralysis uptime,attack:3521,force_strike:179,skill_1:3441,skill_2:0,skill_3:1573,team_buff:0,s1_paralysis:529,fs_boost:1343
 5503,_c_Yachiyo,4*,light,blade,3743,[Mega_Friends+Spirit_of_the_Season][Corsaint_Phoenix],!<hp100 & 0 resist>,,attack:1975,force_strike:100,skill_1:1846,skill_2:0,skill_3:827,team_buff:0,s1_paralysis:0,fs_boost:753
-9676,Yaten,5*,shadow,sword,3733,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Shinobi],<energy & hp70>,,attack:1501,force_strike:690,skill_1:4181,skill_2:0,skill_3:1358,team_buff:0,team_energy:221,s1_boost:1151,s1_boost_energized:261,s1_energized:309
-6281,_c_Yaten,5*,shadow,sword,3733,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Shinobi],!<energy & hp70>,,attack:1186,force_strike:538,skill_1:3253,skill_2:0,skill_3:1302,team_buff:0
+9779,Yaten,5*,shadow,sword,3721,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Fatalis],<energy & no shapeshift & hp70>,,attack:2146,force_strike:987,skill_1:3517,skill_2:0,skill_3:1149,team_buff:0,team_energy:221,s1_boost:957,s1_boost_energized:368,s1_energized:432
+5338,_c_Yaten,5*,shadow,sword,3721,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Fatalis],!<energy & no shapeshift & hp70>,,attack:2346,force_strike:1073,skill_1:1342,skill_2:0,skill_3:575,team_buff:0
 7922,Yue,4*,flame,axe,3831,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],<hp70>,,attack:2556,force_strike:236,skill_1:3789,skill_2:0,skill_3:1340,team_buff:0
 7147,_c_Yue,4*,flame,axe,3831,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya],!<hp70>,,attack:2306,force_strike:213,skill_1:3418,skill_2:0,skill_3:1209,team_buff:0
 7250,Yuya,4*,flame,dagger,3761,[Twinfold_Bonds+Levins_Champion][Sakuya],<hit15 & hp70 & hp60>,,attack:2045,force_strike:536,skill_1:2740,skill_2:0,skill_3:1927,team_buff:0
 4373,_c_Yuya,4*,flame,dagger,3761,[Twinfold_Bonds+Levins_Champion][Sakuya],!<hit15 & hp70 & hp60>,,attack:1230,force_strike:321,skill_1:1667,skill_2:0,skill_3:1154,team_buff:0
-7369,Zace,3*,shadow,lance,3632,[Jewels_of_the_Sun+Resounding_Rendition][Shinobi],<hp70>,,attack:1407,force_strike:138,skill_1:3037,skill_2:1315,skill_3:1470,team_buff:0
-6446,_c_Zace,3*,shadow,lance,3632,[Jewels_of_the_Sun+Resounding_Rendition][Shinobi],!<hp70>,,attack:1231,force_strike:121,skill_1:2657,skill_2:1150,skill_3:1286,team_buff:0
+7554,Zace,3*,shadow,lance,3620,[Jewels_of_the_Sun+Resounding_Rendition][Fatalis],<no shapeshift & hp70>,,attack:2050,force_strike:202,skill_1:2765,skill_2:1197,skill_3:1339,team_buff:0
+4908,_c_Zace,3*,shadow,lance,3620,[Jewels_of_the_Sun+Resounding_Rendition][Fatalis],!<no shapeshift & hp70>,,attack:2169,force_strike:476,skill_1:1242,skill_2:538,skill_3:481,team_buff:0
 9319,Zardin,3*,water,sword,3716,[The_Shining_Overlord+Jewels_of_the_Sun][Siren],<hp100 & shapeshift at 60s & hp70>,,attack:1648,force_strike:759,skill_1:3824,skill_2:1617,skill_3:1470,team_buff:0
 7750,_c_Zardin,3*,water,sword,3716,[The_Shining_Overlord+Jewels_of_the_Sun][Siren],!<hp100 & shapeshift at 60s & hp70>,,attack:1372,force_strike:631,skill_1:3177,skill_2:1346,skill_3:1223,team_buff:0
 12635,Chitose,4*,light,wand,3685,[Jewels_of_the_Sun+A_Game_of_Cat_and_Boar][Daikokuten],<buff all team & hp70>,,attack:3862,force_strike:0,skill_1:0,skill_2:0,skill_3:1148,team_buff:7625
@@ -263,8 +263,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 12093,_c_Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi],!<hp70>,no poison,attack:1722,force_strike:0,skill_1:4262,skill_2:0,skill_3:992,team_buff:0,bleed:5116
 9226,Sinoa,4*,flame,wand,3704,[Candy_Couriers+Primal_Crisis][Sakuya],<hp100 & hit15>,5c+fs,attack:2441,force_strike:343,skill_1:0,skill_2:2674,skill_3:1433,team_buff:2334
 7403,_c_Sinoa,4*,flame,wand,3704,[Candy_Couriers+Primal_Crisis][Sakuya],!<hp100 & hit15>,5c+fs,attack:1795,force_strike:252,skill_1:0,skill_2:1967,skill_3:1054,team_buff:2334
-15561,Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],<hp70>,,attack:2507,force_strike:246,skill_1:0,skill_2:2493,skill_3:1886,team_buff:4330,bleed:4096
-14697,_c_Patia,4*,shadow,lance,3714,[Valiant_Crown+Jewels_of_the_Sun][Shinobi],!<hp70>,,attack:2314,force_strike:227,skill_1:0,skill_2:2301,skill_3:1741,team_buff:4330,bleed:3781
+15639,Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis],<no shapeshift & hp70>,,attack:3652,force_strike:358,skill_1:0,skill_2:2146,skill_3:1624,team_buff:4330,bleed:3526
+9571,_c_Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis],!<no shapeshift & hp70>,,attack:3261,force_strike:556,skill_1:0,skill_2:1006,skill_3:636,team_buff:2392,bleed:1717
 12612,Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],<buff all teammates & hp70 & hit15>,,attack:2426,force_strike:0,skill_1:5883,skill_2:0,skill_3:1739,team_buff:2563
 7210,_c_Heinwald,5*,shadow,staff,3599,[Resounding_Rendition+Flash_of_Genius][Shinobi],!<buff all teammates & hp70 & hit15>,,attack:1971,force_strike:0,skill_1:4043,skill_2:0,skill_3:1195,team_buff:0
 13341,G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten],<hit15 & hp70>,,attack:4159,force_strike:0,skill_1:7244,skill_2:0,skill_3:1937,team_buff:0
