@@ -265,10 +265,12 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7512,_c_Sinoa,4*,flame,wand,3704,[Candy_Couriers+Primal_Crisis][Sakuya],!<hp100 & hit15>,5c+fs,attack:1796,force_strike:226,skill_1:0,skill_2:1890,skill_3:1182,team_buff:2416
 15102,Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis],<no shapeshift & hp70>,,attack:3618,force_strike:353,skill_1:0,skill_2:2024,skill_3:1523,team_buff:4181,bleed:3401
 8970,_c_Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis],!<no shapeshift & hp70>,,attack:3184,force_strike:555,skill_1:0,skill_2:870,skill_3:708,team_buff:2071,bleed:1580
-12553,Heinwald,5*,shadow,staff,3585,[Resounding_Rendition+Primal_Crisis][Fatalis],<buff all teammates & no shapeshift & hp70 & hit15>,,attack:3714,force_strike:0,skill_1:5014,skill_2:0,skill_3:1376,team_buff:2448
-5112,_c_Heinwald,5*,shadow,staff,3585,[Resounding_Rendition+Primal_Crisis][Fatalis],!<buff all teammates & no shapeshift & hp70 & hit15>,,attack:3080,force_strike:0,skill_1:1542,skill_2:0,skill_3:489,team_buff:0
+11919,Heinwald,5*,shadow,staff,3582,[Resounding_Rendition+Beautiful_Nothingness][Fatalis],<buff all teammates & no shapeshift & hp70>,,attack:3481,force_strike:0,skill_1:4700,skill_2:0,skill_3:1289,team_buff:2448
+5284,_c_Heinwald,5*,shadow,staff,3582,[Resounding_Rendition+Beautiful_Nothingness][Fatalis],!<buff all teammates & no shapeshift & hp70>,,attack:3184,force_strike:0,skill_1:1594,skill_2:0,skill_3:505,team_buff:0
 12409,G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten],<hit15 & hp70>,,attack:4192,force_strike:0,skill_1:6532,skill_2:0,skill_3:1684,team_buff:0
 8384,_c_G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten],!<hit15 & hp70>,,attack:2854,force_strike:0,skill_1:4419,skill_2:0,skill_3:1111,team_buff:0
+4779,Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],<hp70 & 0 resist>,no s1; 44% burn uptime,attack:3222,force_strike:0,skill_1:0,skill_2:759,skill_3:533,team_buff:0,s2_burn:264
+3495,_c_Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],!<hp70 & 0 resist>,no s1,attack:2649,force_strike:0,skill_1:0,skill_2:517,skill_3:328,team_buff:0,s2_burn:0
 11373,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(9140~12751),<hp70>,,attack:2074,force_strike:0,skill_1:3274,skill_2:1164,skill_3:970,team_buff:0,bleed:3891
 9041,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(7069~10158),!<hp70>,,attack:1652,force_strike:0,skill_1:2608,skill_2:927,skill_3:772,team_buff:0,bleed:3080
 10822,S_Cleo,5*,light,bow,5276,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(10532~11295),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 81% paralysis uptime,attack:2927,force_strike:0,skill_1:3716,skill_2:0,skill_3:1514,team_buff:590,s1_paralysis:908,s1_boost:1164
