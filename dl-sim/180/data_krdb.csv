@@ -271,6 +271,10 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 9243,_c_G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten],!<hit15 & hp70>,,attack:2796,force_strike:0,skill_1:5187,skill_2:0,skill_3:1259,team_buff:0
 5492,Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],<hp70 & 0 resist>,no s1; 45% burn uptime,attack:3458,force_strike:0,skill_1:0,skill_2:928,skill_3:770,team_buff:0,s2_burn:335
 3966,_c_Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],!<hp70 & 0 resist>,no s1,attack:2848,force_strike:0,skill_1:0,skill_2:634,skill_3:484,team_buff:0,s2_burn:0
+12297,MH_Berserker,5*,flame,sword,3896,[Stellar_Show+Dear_Diary][Cerberus],<RO proc at 0s 60s 120s>,,attack:0,force_strike:8364,skill_1:2838,skill_2:0,skill_3:0,team_buff:1094
+10416,_c_MH_Berserker,5*,flame,sword,3896,[Stellar_Show+Dear_Diary][Cerberus],!<RO proc at 0s 60s 120s>,,attack:0,force_strike:6957,skill_1:2364,skill_2:0,skill_3:0,team_buff:1094
+14686,MH_Vanessa,5*,light,lance,3859,[Resounding_Rendition+Spirit_of_the_Season][Corsaint_Phoenix],<hp70 & hp100 & 0 resist>,81% paralysis uptime,attack:3826,force_strike:1811,skill_1:5110,skill_2:0,skill_3:1593,team_buff:1081,s1_paralysis:1263
+9266,_c_MH_Vanessa,5*,light,lance,3859,[Resounding_Rendition+Spirit_of_the_Season][Corsaint_Phoenix],!<hp70 & hp100 & 0 resist>,,attack:2524,force_strike:1203,skill_1:3402,skill_2:0,skill_3:1054,team_buff:1081,s1_paralysis:0
 13563,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(10737~15262),<hp70>,,attack:2205,force_strike:0,skill_1:4004,skill_2:1423,skill_3:1186,team_buff:0,bleed:4744
 10872,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(8552~12197),!<hp70>,,attack:1762,force_strike:0,skill_1:3199,skill_2:1137,skill_3:948,team_buff:0,bleed:3824
 12292,S_Cleo,5*,light,bow,3517,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix];dpsrange:(10937~11712),<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 81% paralysis uptime,attack:3021,force_strike:0,skill_1:4380,skill_2:0,skill_3:1770,team_buff:681,s1_paralysis:1078,s1_boost:1360

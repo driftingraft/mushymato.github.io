@@ -271,6 +271,10 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 8800,_c_G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten],!<hit15 & hp70>,,attack:2691,force_strike:0,skill_1:4859,skill_2:0,skill_3:1250,team_buff:0
 4451,Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],<hp70 & 0 resist>,no s1; 39% burn uptime,attack:3169,force_strike:0,skill_1:0,skill_2:631,skill_3:385,team_buff:0,s2_burn:264
 3293,_c_Aurien,3*,flame,staff,3688,[Resounding_Rendition+Beautiful_Nothingness][Apollo],!<hp70 & 0 resist>,no s1,attack:2642,force_strike:0,skill_1:0,skill_2:431,skill_3:219,team_buff:0,s2_burn:0
+10068,MH_Berserker,5*,flame,sword,3896,[Stellar_Show+Dear_Diary][Cerberus],<RO proc at 0s 60s 120s>,,attack:0,force_strike:6755,skill_1:2417,skill_2:0,skill_3:0,team_buff:896
+9234,_c_MH_Berserker,5*,flame,sword,3896,[Stellar_Show+Dear_Diary][Cerberus],!<RO proc at 0s 60s 120s>,,attack:0,force_strike:6141,skill_1:2197,skill_2:0,skill_3:0,team_buff:896
+11860,MH_Vanessa,5*,light,lance,3856,[Resounding_Rendition+The_Chocolatiers][Corsaint_Phoenix],<hp70 & 0 resist>,96% paralysis uptime,attack:2933,force_strike:1614,skill_1:3947,skill_2:0,skill_3:1241,team_buff:930,s1_paralysis:1192
+8809,_c_MH_Vanessa,5*,light,lance,3856,[Resounding_Rendition+The_Chocolatiers][Corsaint_Phoenix],!<hp70 & 0 resist>,,attack:2339,force_strike:1314,skill_1:3235,skill_2:0,skill_3:989,team_buff:930,s1_paralysis:0
 12101,Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(8857~13308),<hp70>,,attack:2267,force_strike:0,skill_1:4238,skill_2:1423,skill_3:711,team_buff:0,bleed:3460
 9646,_c_Victor,5*,wind,blade,4598,[Resounding_Rendition+Beautiful_Nothingness][Vayu];dpsrange:(6905~10635),!<hp70>,,attack:1812,force_strike:0,skill_1:3386,skill_2:1137,skill_3:568,team_buff:0,bleed:2741
 9905,S_Cleo,5*,light,bow,3517,[Forest_Bonds+Dear_Diary][Corsaint_Phoenix],<buff all team & RO proc at 0s 60s 120s & 0 resist>,nofs; 87% paralysis uptime,attack:2666,force_strike:0,skill_1:3569,skill_2:0,skill_3:1373,team_buff:479,s1_paralysis:966,s1_boost:850
