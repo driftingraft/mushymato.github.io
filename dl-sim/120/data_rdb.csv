@@ -31,16 +31,16 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7618,_c_Celliera,4*,water,blade,3798,[Resounding_Rendition+Beautiful_Nothingness][Siren][HDT2],!<hp70>,,attack:1915,force_strike:0,skill_1:4291,skill_2:0,skill_3:1412,team_buff:0
 12671,Chelsea,5*,flame,bow,3825,[Forest_Bonds+Dear_Diary][Sakuya][Agito],<RO proc at 0s 60s 120s>,,attack:4139,force_strike:0,skill_1:8531,skill_2:0,skill_3:0,team_buff:0
 11683,_c_Chelsea,5*,flame,bow,3825,[Forest_Bonds+Dear_Diary][Sakuya][Agito],!<RO proc at 0s 60s 120s>,,attack:3811,force_strike:0,skill_1:7872,skill_2:0,skill_3:0,team_buff:0
-4580,Cibella,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70>,,attack:1983,force_strike:272,skill_1:0,skill_2:1288,skill_3:1036,team_buff:0
-4067,_c_Cibella,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,,attack:1761,force_strike:241,skill_1:0,skill_2:1144,skill_3:920,team_buff:0
+5210,Cibella,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70>,,attack:2255,force_strike:309,skill_1:0,skill_2:1465,skill_3:1179,team_buff:0
+4666,_c_Cibella,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,,attack:2020,force_strike:277,skill_1:0,skill_2:1312,skill_3:1056,team_buff:0
 14235,Curran,5*,shadow,axe,4075,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][HDT2],<no shapeshift & last offense>,no fs,attack:4207,force_strike:0,skill_1:5800,skill_2:2102,skill_3:1261,team_buff:863
 8882,_c_Curran,5*,shadow,axe,4075,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][HDT2],!<no shapeshift & last offense>,no fs,attack:4700,force_strike:0,skill_1:2494,skill_2:841,skill_3:420,team_buff:424
 9058,D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<energy & always connect hits & hp70 & hit15>,,attack:1776,force_strike:0,skill_1:2452,skill_2:1757,skill_3:1468,team_buff:1261,team_energy:138,s1_energized:123,s3_energized:80
 6794,_c_D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<energy & always connect hits & hp70 & hit15>,,attack:1331,force_strike:0,skill_1:1812,skill_2:1302,skill_3:1086,team_buff:1261
 13192,D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],<buff all team>,,attack:3667,force_strike:0,skill_1:2648,skill_2:2058,skill_3:0,team_buff:3170,s2_boost:1646
 7184,_c_D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],!<buff all team>,,attack:3165,force_strike:0,skill_1:2269,skill_2:1749,skill_3:0,team_buff:0
-5450,D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],<RO proc at 0s 60s 120s>,,attack:1322,force_strike:794,skill_1:2635,skill_2:0,skill_3:697,team_buff:0
-4739,_c_D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],!<RO proc at 0s 60s 120s>,,attack:1150,force_strike:690,skill_1:2282,skill_2:0,skill_3:615,team_buff:0
+6244,D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],<RO proc at 0s 60s 120s>,,attack:1515,force_strike:909,skill_1:3019,skill_2:0,skill_3:799,team_buff:0
+5429,_c_D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],!<RO proc at 0s 60s 120s>,,attack:1317,force_strike:791,skill_1:2615,skill_2:0,skill_3:705,team_buff:0
 10961,D_Xainfried,4*,wind,wand,3801,[A_Dogs_Day+Primal_Crisis][Longlong][HDT2],<buff all team & hit15>,,attack:3593,force_strike:292,skill_1:0,skill_2:1176,skill_3:1394,team_buff:4504
 5277,_c_D_Xainfried,4*,wind,wand,3801,[A_Dogs_Day+Primal_Crisis][Longlong][HDT2],!<buff all team & hit15>,,attack:2938,force_strike:238,skill_1:0,skill_2:961,skill_3:1138,team_buff:0
 8549,D_Xander,4*,water,wand,3712,[Candy_Couriers+Primal_Crisis][Siren][HDT2],<energy & hit15>,,attack:2163,force_strike:0,skill_1:3761,skill_2:0,skill_3:1702,team_buff:860,team_energy:61
@@ -86,14 +86,14 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 8709,_c_H_Elisanne,5*,light,lance,3811,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Cupid][HDT2],!<hp70>,,attack:1234,force_strike:221,skill_1:3075,skill_2:1147,skill_3:998,team_buff:2032
 12537,H_Mym,5*,flame,axe,4009,[Kung_Fu_Masters+Jewels_of_the_Sun][Cerberus][Agito],<hp70 & s1 defdown for 10s & buff all team>,,attack:5437,force_strike:436,skill_1:2078,skill_2:0,skill_3:0,team_buff:4585
 6808,_c_H_Mym,5*,flame,axe,4009,[Kung_Fu_Masters+Jewels_of_the_Sun][Cerberus][Agito],!<hp70 & s1 defdown for 10s & buff all team>,,attack:4498,force_strike:354,skill_1:1956,skill_2:0,skill_3:0,team_buff:0
-11557,H_Odetta,4*,water,sword,3786,[Mega_Friends+First_Rate_Hospitality][Dragonyule_Jeanne][HDT2],<buff all team & hp70>,,attack:1749,force_strike:1786,skill_1:2335,skill_2:0,skill_3:1341,team_buff:4345
-7295,_c_H_Odetta,4*,water,sword,3786,[Mega_Friends+First_Rate_Hospitality][Dragonyule_Jeanne][HDT2],!<buff all team & hp70>,,attack:1648,force_strike:1683,skill_1:2199,skill_2:0,skill_3:1263,team_buff:501
+12577,H_Odetta,4*,water,sword,3786,[Mega_Friends+First_Rate_Hospitality][Dragonyule_Jeanne][HDT2],<buff all team & hp70>,,attack:1997,force_strike:2039,skill_1:2665,skill_2:0,skill_3:1530,team_buff:4345
+8302,_c_H_Odetta,4*,water,sword,3786,[Mega_Friends+First_Rate_Hospitality][Dragonyule_Jeanne][HDT2],!<buff all team & hp70>,,attack:1892,force_strike:1932,skill_1:2525,skill_2:0,skill_3:1450,team_buff:501
 7480,Hawk,5*,wind,bow,3654,[Forest_Bonds+Dear_Diary][Garland][HDT2],<fullhp=stun & maintain shield & RO proc at 0s 60s 120s & 80 resist>,4% stun uptime,attack:1745,force_strike:1006,skill_1:3131,skill_2:0,skill_3:1470,team_buff:0,fs_boost:126
 5162,_c_Hawk,5*,wind,bow,3654,[Forest_Bonds+Dear_Diary][Garland][HDT2],!<fullhp=stun & maintain shield & RO proc at 0s 60s 120s & 80 resist>,,attack:1281,force_strike:735,skill_1:2025,skill_2:0,skill_3:1029,team_buff:0,fs_boost:90
 6910,Irfan,3*,light,dagger,3572,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],<hit15 & hp70>,,attack:2367,force_strike:116,skill_1:2629,skill_2:1116,skill_3:681,team_buff:0
 5120,_c_Irfan,3*,light,dagger,3572,[Twinfold_Bonds+Levins_Champion][Daikokuten][HDT2],!<hit15 & hp70>,,attack:1763,force_strike:89,skill_1:1940,skill_2:824,skill_3:502,team_buff:0
-5016,Jakob,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70>,no bog,attack:1574,force_strike:313,skill_1:2267,skill_2:0,skill_3:861,team_buff:0
-4454,_c_Jakob,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,no bog,attack:1398,force_strike:278,skill_1:2013,skill_2:0,skill_3:764,team_buff:0
+5705,Jakob,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],<hp70>,no bog,attack:1791,force_strike:356,skill_1:2578,skill_2:0,skill_3:979,team_buff:0
+5110,_c_Jakob,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,no bog,attack:1604,force_strike:319,skill_1:2309,skill_2:0,skill_3:877,team_buff:0
 12287,Joe,3*,flame,bow,3947,[Forest_Bonds+Dear_Diary][Sakuya][Agito],<RO proc at 0s 60s 120s & 0 resist & hp100>,94% burn uptime,attack:2401,force_strike:580,skill_1:5350,skill_2:2051,skill_3:0,team_buff:0,s1_burn:1302,s2_burn:601
 9197,_c_Joe,3*,flame,bow,3947,[Forest_Bonds+Dear_Diary][Sakuya][Agito],!<RO proc at 0s 60s 120s & 0 resist & hp100>,,attack:2131,force_strike:514,skill_1:4737,skill_2:1814,skill_3:0,team_buff:0,s1_burn:0,s2_burn:0
 8938,Johanna,3*,wind,axe,3666,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,,attack:1960,force_strike:232,skill_1:3639,skill_2:1637,skill_3:1468,team_buff:0
