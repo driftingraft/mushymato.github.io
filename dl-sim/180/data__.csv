@@ -35,8 +35,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 4101,_c_Cibella,3*,water,lance,3756,[Resounding_Rendition+Beautiful_Nothingness][Dragonyule_Jeanne][HDT2],!<hp70>,,attack:1951,force_strike:242,skill_1:0,skill_2:1039,skill_3:868,team_buff:0
 11306,Curran,5*,shadow,axe,4075,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][HDT2],<no shapeshift & last offense>,no fs,attack:3958,force_strike:0,skill_1:4174,skill_2:1597,skill_3:913,team_buff:662
 7744,_c_Curran,5*,shadow,axe,4075,[Kung_Fu_Masters+Flower_in_the_Fray][Fatalis][HDT2],!<no shapeshift & last offense>,no fs,attack:4405,force_strike:0,skill_1:1871,skill_2:684,skill_3:456,team_buff:326
-7652,D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<energy & always connect hits & hp70 & hit15>,,attack:1821,force_strike:0,skill_1:1881,skill_2:1363,skill_3:1277,team_buff:994,team_energy:107,s1_energized:68,s3_energized:138
-5699,_c_D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<energy & always connect hits & hp70 & hit15>,,attack:1358,force_strike:0,skill_1:1389,skill_2:1009,skill_3:945,team_buff:994
+7931,D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],<energy & always connect hits & hp70 & hit15>,,attack:1679,force_strike:290,skill_1:2027,skill_2:1356,skill_3:1226,team_buff:989,team_energy:115,s3_energized:177,s2_energized:34,s1_energized:33
+5865,_c_D_Cleo,5*,water,dagger,3701,[Twinfold_Bonds+The_Prince_of_Dragonyule][Siren][HDT2],!<energy & always connect hits & hp70 & hit15>,,attack:1250,force_strike:216,skill_1:1497,skill_2:1004,skill_3:906,team_buff:989
 10668,D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],<buff all team>,,attack:3508,force_strike:0,skill_1:2086,skill_2:1344,skill_3:0,team_buff:2653,s2_boost:1075
 5943,_c_D_Malora,5*,light,axe,3920,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2],!<buff all team>,,attack:3017,force_strike:0,skill_1:1784,skill_2:1142,skill_3:0,team_buff:0
 5459,D_Nefaria,4*,water,bow,3643,[Forest_Bonds+Dear_Diary][Dragonyule_Jeanne][HDT2],<hp30 every 90s>,,attack:1436,force_strike:864,skill_1:2407,skill_2:0,skill_3:750,team_buff:0
@@ -120,8 +120,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7450,Lily,5*,water,wand,3732,[Candy_Couriers+Seaside_Princess][Siren][HDT2],<hp100>,,attack:1555,force_strike:0,skill_1:2939,skill_2:1690,skill_3:1264,team_buff:0
 5934,_c_Lily,5*,water,wand,3732,[Candy_Couriers+Seaside_Princess][Siren][HDT2],!<hp100>,,attack:1239,force_strike:0,skill_1:2341,skill_2:1346,skill_3:1007,team_buff:0
 6301,Linus,3*,light,axe,3802,[Kung_Fu_Masters+Flower_in_the_Fray][Cupid][HDT2], ,,attack:2348,force_strike:205,skill_1:2116,skill_2:1015,skill_3:615,team_buff:0
-8092,Linyou,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2374,force_strike:0,skill_1:3519,skill_2:0,skill_3:1318,team_buff:0,s1_powerup:879
-6874,_c_Linyou,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2016,force_strike:0,skill_1:2989,skill_2:0,skill_3:1119,team_buff:0,s1_powerup:747
+8670,Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],<hp70>,2in1 ,attack:2461,force_strike:0,skill_1:3716,skill_2:0,skill_3:1318,team_buff:0,s1_powerup:1173
+7365,_c_Lin_You,5*,wind,axe,3782,[Kung_Fu_Masters+Crystalian_Envoy][Vayu][HDT2],!<hp70>,2in1 ,attack:2091,force_strike:0,skill_1:3156,skill_2:0,skill_3:1120,team_buff:0,s1_powerup:996
 7639,Louise,5*,wind,bow,3601,[Dear_Diary+The_Plaguebringer][Vayu][HDT2],<hp30 every 90s & 0 resist>,no fs; 85% poison uptime,attack:1747,force_strike:0,skill_1:2323,skill_2:1694,skill_3:1225,team_buff:0,s1_poison:648
 4672,_c_Louise,5*,wind,bow,3601,[Dear_Diary+The_Plaguebringer][Vayu][HDT2],!<hp30 every 90s & 0 resist>,no fs,attack:1266,force_strike:0,skill_1:1678,skill_2:851,skill_3:875,team_buff:0,s1_poison:0
 6816,Luca,4*,light,bow,3477,[Forest_Bonds+Dear_Diary][Daikokuten][HDT2],<hp100 & hit15 & hp30 every 90s & 0 resist>,76% paralysis uptime,attack:1650,force_strike:973,skill_1:2057,skill_2:1036,skill_3:569,team_buff:0,s1_paralysis:528
@@ -201,8 +201,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 5117,_c_S_Ranzal,4*,water,blade,3738,[Resounding_Rendition+First_Rate_Hospitality][Siren][HDT2],!<buff all team & last offense & hp70>,no bog,attack:1656,force_strike:0,skill_1:2523,skill_2:0,skill_3:937,team_buff:0
 9294,Serena,4*,flame,sword,3798,[The_Shining_Overlord+Primal_Crisis][Dreadking_Rathalos][Agito],<always connect hits & hit15>,,attack:2512,force_strike:1832,skill_1:3378,skill_2:1571,skill_3:0,team_buff:0
 7128,_c_Serena,4*,flame,sword,3798,[The_Shining_Overlord+Primal_Crisis][Dreadking_Rathalos][Agito],!<always connect hits & hit15>,,attack:1933,force_strike:1408,skill_1:2586,skill_2:1200,skill_3:0,team_buff:0
-5697,Sufang,4*,wind,dagger,3557,[Twinfold_Bonds+Levins_Champion][Vayu][HDT2],<hit15 & hp70>,,attack:1780,force_strike:196,skill_1:2097,skill_2:0,skill_3:1622,team_buff:0
-4707,_c_Sufang,4*,wind,dagger,3557,[Twinfold_Bonds+Levins_Champion][Vayu][HDT2],!<hit15 & hp70>,,attack:1474,force_strike:163,skill_1:1731,skill_2:0,skill_3:1338,team_buff:0
+5281,Su_Fang,4*,wind,dagger,3557,[Twinfold_Bonds+Levins_Champion][Vayu][HDT2],<hit15 & hp70>,,attack:1696,force_strike:196,skill_1:1766,skill_2:0,skill_3:1622,team_buff:0
+4364,_c_Su_Fang,4*,wind,dagger,3557,[Twinfold_Bonds+Levins_Champion][Vayu][HDT2],!<hit15 & hp70>,,attack:1404,force_strike:163,skill_1:1457,skill_2:0,skill_3:1338,team_buff:0
 7992,Sylas,5*,wind,lance,3729,[Resounding_Rendition+The_Plaguebringer][Vayu][HDT2],<hp70 & 0 resist>,not consider skill haste for team; 84% poison uptime,attack:1946,force_strike:131,skill_1:3085,skill_2:0,skill_3:1530,team_buff:465,s1_poison:833
 5226,_c_Sylas,5*,wind,lance,3729,[Resounding_Rendition+The_Plaguebringer][Vayu][HDT2],!<hp70 & 0 resist>,not consider skill haste for team,attack:1382,force_strike:95,skill_1:2221,skill_2:0,skill_3:1061,team_buff:465,s1_poison:0
 6910,Taro,3*,shadow,blade,3895,[Resounding_Rendition+Beautiful_Nothingness][Fatalis][HDT2],<no shapeshift & hp70>,,attack:2564,force_strike:0,skill_1:2282,skill_2:1025,skill_3:1037,team_buff:0
@@ -237,8 +237,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7724,_c_Xuanzang,4*,flame,lance,3872,[Resounding_Rendition+Beautiful_Nothingness][Dreadking_Rathalos][Agito],!<hp70>,,attack:913,force_strike:2800,skill_1:2288,skill_2:0,skill_3:0,team_buff:1323,s1_boost:397
 9773,Yachiyo,4*,light,blade,3743,[Mega_Friends+Spirit_of_the_Season][Corsaint_Phoenix][HDT2],<hp100 & 0 resist>,72% paralysis uptime,attack:3367,force_strike:173,skill_1:3007,skill_2:0,skill_3:1506,team_buff:0,s1_paralysis:415,fs_boost:1302
 5291,_c_Yachiyo,4*,light,blade,3743,[Mega_Friends+Spirit_of_the_Season][Corsaint_Phoenix][HDT2],!<hp100 & 0 resist>,,attack:1947,force_strike:100,skill_1:1652,skill_2:0,skill_3:838,team_buff:0,s1_paralysis:0,fs_boost:752
-8084,Yaten,5*,shadow,sword,3710,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],<energy & no shapeshift & hp70>,,attack:2135,force_strike:804,skill_1:2655,skill_2:0,skill_3:1114,team_buff:0,team_energy:150,s1_boost:641,s1_boost_energized:229,s1_energized:236,s3_energized:118
-4771,_c_Yaten,5*,shadow,sword,3710,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],!<energy & no shapeshift & hp70>,,attack:2240,force_strike:961,skill_1:1121,skill_2:0,skill_3:449,team_buff:0
+8242,Yaten,5*,shadow,sword,3721,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Fatalis][HDT2],<energy & no shapeshift & hp70>,,attack:1992,force_strike:912,skill_1:2783,skill_2:0,skill_3:857,team_buff:0,team_energy:183,s1_boost:802,s1_boost_energized:308,s1_energized:401
+4622,_c_Yaten,5*,shadow,sword,3721,[Heralds_of_Hinomoto+Jewels_of_the_Sun][Fatalis][HDT2],!<energy & no shapeshift & hp70>,,attack:2133,force_strike:974,skill_1:1109,skill_2:0,skill_3:404,team_buff:0
 7264,Yue,4*,flame,axe,3924,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya][Agito],<hp70>,,attack:2897,force_strike:357,skill_1:4009,skill_2:0,skill_3:0,team_buff:0
 6554,_c_Yue,4*,flame,axe,3924,[Kung_Fu_Masters+Crystalian_Envoy][Sakuya][Agito],!<hp70>,,attack:2614,force_strike:322,skill_1:3617,skill_2:0,skill_3:0,team_buff:0
 6350,Yuya,4*,flame,dagger,3848,[Twinfold_Bonds+Levins_Champion][Sakuya][Agito],<hit15 & hp70 & hp60>,,attack:2533,force_strike:690,skill_1:3126,skill_2:0,skill_3:0,team_buff:0
