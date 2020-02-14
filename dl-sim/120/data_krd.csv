@@ -23,8 +23,8 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 6285,_c_B_Zardin,5*,light,blade,3769,[Resounding_Rendition+Jewels_of_the_Sun][Cupid][HDT2],!<energy & hp70>,no s2,attack:2437,force_strike:0,skill_1:2569,skill_2:0,skill_3:968,team_buff:310
 8117,Berserker,4*,shadow,sword,3611,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],<last offense & hp70>,,attack:1920,force_strike:1424,skill_1:3312,skill_2:0,skill_3:1460,team_buff:0
 7383,_c_Berserker,4*,shadow,sword,3611,[The_Shining_Overlord+Beautiful_Nothingness][Fatalis][HDT2],!<last offense & hp70>,,attack:1742,force_strike:1292,skill_1:3031,skill_2:0,skill_3:1317,team_buff:0
-16713,Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi][HDT2],<buff all team & hp70>,,attack:2148,force_strike:115,skill_1:3566,skill_2:0,skill_3:2192,team_buff:3540,bleed:5149
-13915,_c_Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi][HDT2],!<buff all team & hp70>,,attack:1893,force_strike:101,skill_1:3144,skill_2:0,skill_3:1932,team_buff:2304,bleed:4539
+18620,Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi][HDT2],<buff all team & hp70>,,attack:2132,force_strike:166,skill_1:3566,skill_2:0,skill_3:2192,team_buff:3505,s1_bleed:7057
+15604,_c_Botan,4*,shadow,lance,3683,[Resounding_Rendition+Beautiful_Nothingness][Shinobi][HDT2],!<buff all team & hp70>,,attack:1878,force_strike:146,skill_1:3143,skill_2:0,skill_3:1932,team_buff:2281,s1_bleed:6221
 15759,Cassandra,5*,shadow,wand,3896,[Candy_Couriers+The_Fires_of_Hate][Fatalis][HDT2],<hp30 every 90s & hp100 & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo; 95% poison uptime,attack:4182,force_strike:0,skill_1:5196,skill_2:2626,skill_3:2141,team_buff:0,s1_poison:1207,s2_reflect:300,s2_crisis:105
 9277,_c_Cassandra,5*,shadow,wand,3896,[Candy_Couriers+The_Fires_of_Hate][Fatalis][HDT2],!<hp30 every 90s & hp100 & reflect 500 damage on every s2 & 0 poison res & hp=80%>,no counter damage; s2 drops combo,attack:2733,force_strike:0,skill_1:3445,skill_2:1688,skill_3:1409,team_buff:0,s1_poison:0,s2_reflect:0,s2_crisis:0
 8305,Celliera,4*,water,blade,3810,[Resounding_Rendition+Jewels_of_the_Sun][Siren][HDT2],<hp70>,,attack:2355,force_strike:0,skill_1:4199,skill_2:0,skill_3:1750,team_buff:0
@@ -257,12 +257,12 @@ dps,name,star,element,weapon,str,amulets,condition,comment,
 7872,_c_Kirsty,5*,wind,lance,3769,[Resounding_Rendition+Beautiful_Nothingness][Garland][HDT2],!<maintain shield & hp70 & maintain Dauntless Strength>,no poison,attack:2350,force_strike:0,skill_1:2866,skill_2:0,skill_3:795,team_buff:1860
 17065,Joachim,4*,wind,bow,3629,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],<hp70 & hp30 every 90s & hp100 & 0 poison res>,92% poison uptime,attack:3005,force_strike:0,skill_1:6733,skill_2:0,skill_3:2534,team_buff:1333,s1_poison:3457
 6377,_c_Joachim,4*,wind,bow,3629,[Dear_Diary+The_Fires_of_Hate][Vayu][HDT2],!<hp70 & hp30 every 90s & hp100 & 0 poison res>,,attack:1649,force_strike:0,skill_1:2064,skill_2:0,skill_3:1329,team_buff:1333,s1_poison:0
-16830,Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][HDT2],<hp70>,,attack:2407,force_strike:0,skill_1:5927,skill_2:0,skill_3:1382,team_buff:0,bleed:7112
-13203,_c_Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][HDT2],!<hp70>,,attack:1883,force_strike:0,skill_1:4652,skill_2:0,skill_3:1084,team_buff:0,bleed:5583
+16830,Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][HDT2],<hp70>,,attack:2407,force_strike:0,skill_1:5927,skill_2:0,skill_3:1382,team_buff:0,s1_bleed:7112
+13203,_c_Ieyasu,5*,shadow,blade,4124,[Resounding_Rendition+Jewels_of_the_Sun][Shinobi][HDT2],!<hp70>,,attack:1883,force_strike:0,skill_1:4652,skill_2:0,skill_3:1084,team_buff:0,s1_bleed:5583
 10764,Sinoa,4*,flame,wand,3920,[Candy_Couriers+Primal_Crisis][Dreadking_Rathalos][Agito],<hp100 & hit15>,,attack:4176,force_strike:1069,skill_1:0,skill_2:2692,skill_3:0,team_buff:2825
 9004,_c_Sinoa,4*,flame,wand,3920,[Candy_Couriers+Primal_Crisis][Dreadking_Rathalos][Agito],!<hp100 & hit15>,,attack:3258,force_strike:830,skill_1:0,skill_2:2090,skill_3:0,team_buff:2825
-16810,Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis][HDT2],<hp70>,,attack:3929,force_strike:384,skill_1:0,skill_2:2300,skill_3:1743,team_buff:4671,bleed:3780
-16172,_c_Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis][HDT2],!<hp70>,,attack:3722,force_strike:364,skill_1:0,skill_2:2179,skill_3:1651,team_buff:4671,bleed:3581
+16810,Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis][HDT2],<hp70>,,attack:3929,force_strike:384,skill_1:0,skill_2:2300,skill_3:1743,team_buff:4671,s2_bleed:3780
+16172,_c_Patia,4*,shadow,lance,3702,[Valiant_Crown+Jewels_of_the_Sun][Fatalis][HDT2],!<hp70>,,attack:3722,force_strike:364,skill_1:0,skill_2:2179,skill_3:1651,team_buff:4671,s2_bleed:3581
 14484,Heinwald,5*,shadow,staff,3582,[Resounding_Rendition+Beautiful_Nothingness][Fatalis][HDT2],<buff all teammates & hp70>,,attack:3351,force_strike:0,skill_1:6672,skill_2:0,skill_3:1686,team_buff:2773
 8791,_c_Heinwald,5*,shadow,staff,3582,[Resounding_Rendition+Beautiful_Nothingness][Fatalis][HDT2],!<buff all teammates & hp70>,,attack:3023,force_strike:0,skill_1:4603,skill_2:0,skill_3:1163,team_buff:0
 14187,G_Luca,5*,light,blade,3769,[The_Wyrmclan_Duo+Primal_Crisis][Daikokuten][HDT2],<hit15 & hp70>,,attack:4412,force_strike:0,skill_1:7651,skill_2:0,skill_3:2123,team_buff:0
